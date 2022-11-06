@@ -1,7 +1,7 @@
-name: "my-website"
+name: "Takayuki Nagamine"
 output_dir: "docs"
 navbar:
-  title: "My Website"
+  title: "Takayuki Nagamine"
   left:
     - text: "Home"
       href: index.html
