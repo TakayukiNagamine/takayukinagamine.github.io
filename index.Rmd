@@ -3,3 +3,5 @@ title: "Takayuki Nagamine"
 ---
 
 I am a 3rd year PhD student at Lancaster University, UK. I use ultrasound tongue imaging to investigate articulation in second language speech, particularly English liquids produced by L1 Japanese speakers. 
+
+fa-graduation-cap

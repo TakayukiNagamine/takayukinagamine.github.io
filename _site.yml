@@ -9,3 +9,8 @@ navbar:
       href: about.html
     - text: "Research"
       href: research.html
+    - icon: fa-graduation-cap
+      href: https://www.lancaster.ac.uk/
+output:
+  html_document:
+    theme: flatly
