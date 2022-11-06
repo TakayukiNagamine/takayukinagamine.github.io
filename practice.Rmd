@@ -1,0 +1,6 @@
+---
+title: "practice"
+output: html_document
+---
+
+# This is a practice page.
