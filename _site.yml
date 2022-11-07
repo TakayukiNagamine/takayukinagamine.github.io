@@ -15,4 +15,4 @@ navbar:
       href: https://www.lancaster.ac.uk/
 output:
   html_document:
-    theme: flatly
+    theme: darkly
