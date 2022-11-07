@@ -3,11 +3,16 @@ title: "Research"
 output: html_document
 ---
 
-## Conference Paper
+My research focus is centred around pronunciation. My PhD work looks into the articulatory aspects of L2 speech production, with the following research outputs.
 
-[3] Nagamine, T. (2022) Acquisition of allophonic variation in second language speech: An acoustic and articulatory study of English laterals by Japanese speakers. *Proc. Interspeech 2022*, 644-648, https://doi.org/10.21437/Interspeech.2022-11020
+### Conference Paper
 
-[2] Miura, A., & Nagamine, T. (2022). Using synchronous computer-mediated communication to develop L2 learners’ oral fluency. In J. Levis & A. Guskaroska (eds.), *Proceedings of the 12th Pronunciation in Second Language Learning and Teaching Conference*, held June 2021 virtually at Brock University, St. Catharines, ON. https://doi.org/10.31274/psllt.13347
+<a href='https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/e0d37e4d9dc01f94a63c7993253c865e598b71ec/papers/nagamine22_interspeech.pdf' target='_blank'><img title='interspeech2022' alt='interspeech2022' src='https://img.icons8.com/officel/20/null/pdf.png' border="0"/></a> &nbsp; Nagamine, T. (2022) Acquisition of allophonic variation in second language speech: An acoustic and articulatory study of English laterals by Japanese speakers. *Proc. Interspeech 2022*, 644-648, https://doi.org/10.21437/Interspeech.2022-11020
 
-[1] Nagamine, T. (2020). Intelligibility of varieties of English and listeners’ language learning backgrounds. In O. Kang, S. Staples, K. Yaw, & K. Hirschi (Eds.), *Proceedings of the 11th Pronunciation in Second Language Learning and Teaching conference*, Northern Arizona University, September 2019 (pp. 261–269). Ames, IA: Iowa State University.
+### Conference Presentation
+
+
+<a href='https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/e0d37e4d9dc01f94a63c7993253c865e598b71ec/papers/psllt2021_miura-nagamine.pdf' target='_blank'><img title='psllt2021' alt='psllt2021' src='https://img.icons8.com/officel/20/null/pdf.png' border="0"/></a> &nbsp; Miura, A., & Nagamine, T. (2022). Using synchronous computer-mediated communication to develop L2 learners’ oral fluency. In J. Levis & A. Guskaroska (eds.), *Proceedings of the 12th Pronunciation in Second Language Learning and Teaching Conference*, held June 2021 virtually at Brock University, St. Catharines, ON. https://doi.org/10.31274/psllt.13347
+
+<a href='https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/e0d37e4d9dc01f94a63c7993253c865e598b71ec/papers/Nagamine2019PSLLT.pdf' target='_blank'><img title='psllt2019' alt='psllt2019' src='https://img.icons8.com/officel/20/null/pdf.png' border="0"/></a> &nbsp; Nagamine, T. (2020). Intelligibility of varieties of English and listeners’ language learning backgrounds. In O. Kang, S. Staples, K. Yaw, & K. Hirschi (Eds.), *Proceedings of the 11th Pronunciation in Second Language Learning and Teaching conference*, Northern Arizona University, September 2019 (pp. 261–269). Ames, IA: Iowa State University.
 
