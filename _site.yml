@@ -12,7 +12,7 @@ navbar:
     - text: "Private"
       href: private.html
     - icon: fa-envelope
-      email: t.nagamine@lancaster.ac.uk.
+      href: mailto:t.nagamine@lancaster.ac.uk
 output:
   html_document:
     theme: simplex

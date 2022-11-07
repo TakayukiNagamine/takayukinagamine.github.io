@@ -9,10 +9,34 @@ knitr::include_graphics("images/profile.png")
 
 <br>
 <br>
+<br>
 I am a 3rd year PhD student at Lancaster University, UK. I use ultrasound tongue imaging to investigate articulation in second language speech, particularly English liquids produced by L1 Japanese speakers. 
-<br>
-<br>
+
+
+My PhD research is funded by [Japan Student Services Organisation (JASSO)](https://www.jasso.go.jp/ryugaku/scholarship_a/daigakuin/index.html) and [The Murata Science Foundation](https://corporate.murata.com/ja-jp/group/zaidan).
+
+
 Also follow me on:&nbsp;&nbsp;<a href='https://researchmap.jp/takayukinagamine' target='_blank'><img title='researchmap' alt='researchmap' src='https://researchmap.jp/outline/img/researchmap130.gif' border="0"/></a> <a href='https://www.researchgate.net/profile/Takayuki_Nagamine' target='_blank'><img title='researchgate' alt='researchgate' src='https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/null/external-researchgate-a-social-networking-site-for-scientists-and-researchers-to-share-papers-logo-color-tal-revivo.png' /></a> <a href='https://twitter.com/tn75146488' target='_blank'><img title='twitter' alt='twitter' src='https://img.icons8.com/fluency/48/null/twitter-squared.png' /></a> <a href='https://github.com/TakayukiNagamine' target='_blank'><img title='github' alt='github' src='https://img.icons8.com/ios-filled/40/null/github.png' /></a>
 
+<br>
+<br>
+<br>
+<br>
 
+### Research interests
 
+<img src="https://img.icons8.com/external-smashingstocks-detailed-outline-smashing-stocks/40/null/external-phonetics-foreign-language-smashingstocks-detailed-outline-smashing-stocks.png"/> &nbsp; **Articulatory Phonetics**
+
+<img src="https://img.icons8.com/external-others-pike-picture/40/null/external-Ultrasound-gynecology-others-pike-picture-2.png"/> &nbsp; **Ultrasound Tongue Imaging**
+
+<img src="https://img.icons8.com/ios/40/null/language-skill.png"/> &nbsp; **Second Language Acquisition**
+
+<br>
+
+### Education
+<img src="https://img.icons8.com/glyph-neue/40/null/graduation-cap.png"/> &nbsp; **2020 - Present** &nbsp; **PhD Candidate in Linguistics, [Lancaster University](https://www.lancaster.ac.uk/), UK.**
+(See also: [Lancaster University Phonetics Lab](http://wp.lancs.ac.uk/phonetics/))
+
+<img src="https://img.icons8.com/glyph-neue/40/null/graduation-cap.png"/> &nbsp; **2015 - 2016** &nbsp; **Master of Arts in Linguistics (with Merit), [University College London](https://www.ucl.ac.uk/), UK.**
+
+<img src="https://img.icons8.com/glyph-neue/40/null/graduation-cap.png"/> &nbsp; **2010 - 2015** &nbsp; **Bachelor of Arts in Education Studies, [Aichi University of Education](https://www.aichi-edu.ac.jp/), Japan.**
