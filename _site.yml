@@ -15,4 +15,4 @@ navbar:
       href: mailto:t.nagamine@lancaster.ac.uk
 output:
   html_document:
-    theme: journal
+    theme: simplex
