@@ -11,8 +11,8 @@ navbar:
       href: research.html
     - text: "Private"
       href: private.html
-    - icon: fa-graduation-cap
-      href: https://www.lancaster.ac.uk/
+    - icon: fa-envelope
+      email: t.nagamine@lancaster.ac.uk.
 output:
   html_document:
-    theme: darkly
+    theme: simplex

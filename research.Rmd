@@ -3,16 +3,59 @@ title: "Research"
 output: html_document
 ---
 
-My research focus is centred around pronunciation. My PhD work looks into the articulatory aspects of L2 speech production, with the following research outputs.
 
-### Conference Paper
+-----
 
-<a href='https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/e0d37e4d9dc01f94a63c7993253c865e598b71ec/papers/nagamine22_interspeech.pdf' target='_blank'><img title='interspeech2022' alt='interspeech2022' src='https://img.icons8.com/officel/20/null/pdf.png' border="0"/></a> &nbsp; Nagamine, T. (2022) Acquisition of allophonic variation in second language speech: An acoustic and articulatory study of English laterals by Japanese speakers. *Proc. Interspeech 2022*, 644-648, https://doi.org/10.21437/Interspeech.2022-11020
+## **L2 Articulatory Phonetics**
 
-### Conference Presentation
+My primary research focus is centred around articulatory phonetics in L2 speech production. I'm particularly interested in production of English liquids by L1 Japanese speakers. I use the ultrasound tongue imaging technique to investigate the movement of the tongue while L1 Japanese speakers produce articulatorily-complex English /l r/. 
+
+### Peer-reviewed conference paper
+
+- <a href='https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/e0d37e4d9dc01f94a63c7993253c865e598b71ec/papers/nagamine22_interspeech.pdf' target='_blank'><img title='interspeech2022' alt='interspeech2022' src='https://img.icons8.com/officel/20/null/pdf.png' border="0"/></a> &nbsp; **Nagamine, T.** (2022) Acquisition of allophonic variation in second language speech: An acoustic and articulatory study of English laterals by Japanese speakers. *Proc. Interspeech 2022*, 644-648, https://doi.org/10.21437/Interspeech.2022-11020
+
+### Conference presentation
+
+- <a href='https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/main/papers/nagamine_UltrafestX.pdf' target='_blank'><img title='ultrafestx' alt='ultrafestx' src='https://img.icons8.com/officel/20/null/pdf.png' border="0"/></a> &nbsp; **Nagamine, T.** (2022, November 3-4). *Acoustic, perceptual and articulatory properties of second language speech; A case of Japanese speakers’ production of the English /l r/ contrast.*　[Conference presentation]. Ultrafest X, University of Manchester, Manchester, United Kingdom. 
+
+- **Nagamine, T.** (2022, September 18-22). *Acquisition of allophonic variation in second language speech: An acoustic and articulatory study of English laterals by Japanese speakers.*　[Conference presentation]. Interspeech2022: The 2022 Conference of the International Speech Communication Association, Songdo ConvensiA, Incheon, South Korea.
 
 
-<a href='https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/e0d37e4d9dc01f94a63c7993253c865e598b71ec/papers/psllt2021_miura-nagamine.pdf' target='_blank'><img title='psllt2021' alt='psllt2021' src='https://img.icons8.com/officel/20/null/pdf.png' border="0"/></a> &nbsp; Miura, A., & Nagamine, T. (2022). Using synchronous computer-mediated communication to develop L2 learners’ oral fluency. In J. Levis & A. Guskaroska (eds.), *Proceedings of the 12th Pronunciation in Second Language Learning and Teaching Conference*, held June 2021 virtually at Brock University, St. Catharines, ON. https://doi.org/10.31274/psllt.13347
+- **Nagamine, T.** & Suzuki, S. (2022, April 4-8). *Dynamic phonetic correlates of liquid contrasts in Japanese speakers of English.* [Conference presentation]. BAAP 2022: Colloquium of the British Association of Academic Phoneticians, University of York (online), York, United Kingdom.
 
-<a href='https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/e0d37e4d9dc01f94a63c7993253c865e598b71ec/papers/Nagamine2019PSLLT.pdf' target='_blank'><img title='psllt2019' alt='psllt2019' src='https://img.icons8.com/officel/20/null/pdf.png' border="0"/></a> &nbsp; Nagamine, T. (2020). Intelligibility of varieties of English and listeners’ language learning backgrounds. In O. Kang, S. Staples, K. Yaw, & K. Hirschi (Eds.), *Proceedings of the 11th Pronunciation in Second Language Learning and Teaching conference*, Northern Arizona University, September 2019 (pp. 261–269). Ames, IA: Iowa State University.
+### Miscellaneous
 
+University press articles (in Japanese) when I brought the ultrasound machine to the undergraduate English Phonetics classes.
+
+- 31 October 2022 at [Meijo University](https://www.meijo-u.ac.jp/news/detail_28009.html), Aichi, Japan.
+
+- 18 October 2022 at [Kobe Gakuin University](https://www.kobegakuin.ac.jp/education/faculty_global/news/988939cb1a72698c58a1.html), Hyogo, Japan.
+
+
+-----
+
+## **L2 pronunciation learning and teaching**
+
+As a second language English learner myself, I'm also interested in understanding the ways L2 learners improve their pronunciation and listening skills. Specific interests include the use of technology in improving L2 fluency and teaching of L2 listening within the world Englishes paradigm.
+
+### Peer-reviewed conference paper
+
+- <a href='https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/e0d37e4d9dc01f94a63c7993253c865e598b71ec/papers/psllt2021_miura-nagamine.pdf' target='_blank'><img title='psllt2021' alt='psllt2021' src='https://img.icons8.com/officel/20/null/pdf.png' border="0"/></a> &nbsp; Miura, A., & **Nagamine, T.** (2022). Using synchronous computer-mediated communication to develop L2 learners’ oral fluency. In J. Levis & A. Guskaroska (eds.), *Proceedings of the 12th Pronunciation in Second Language Learning and Teaching Conference*, held June 2021 virtually at Brock University, St. Catharines, ON. https://doi.org/10.31274/psllt.13347
+
+- <a href='https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/e0d37e4d9dc01f94a63c7993253c865e598b71ec/papers/Nagamine2019PSLLT.pdf' target='_blank'><img title='psllt2019' alt='psllt2019' src='https://img.icons8.com/officel/20/null/pdf.png' border="0"/></a> &nbsp; **Nagamine, T.** (2020). Intelligibility of varieties of English and listeners’ language learning backgrounds. In O. Kang, S. Staples, K. Yaw, & K. Hirschi (Eds.), *Proceedings of the 11th Pronunciation in Second Language Learning and Teaching conference*, Northern Arizona University, September 2019 (pp. 261–269). Ames, IA: Iowa State University.
+
+
+### Conference presentation
+
+
+- **Nagamine, T.** & Nishio, Y. (2022, July 31). *Vowels in Asian Englishes Speech: Acoustics, Functional Load, and Implications to the Listening Pedagogy.*  [Conference presentation] The 49th National Conference of the Japanese Association for Asian Englishes, online. 
+
+- **Nagamine, T.** & Miura, A. (2022, April 20-22). *Write to speak: Effects of timed writing practice on development of the L2 learners' oral performance.*  [Poster presentation] NewSounds 2022: The 10th International Symposium on the Acquisition of Second Language Speech, University of Barcelona, Barcelona, Spain.
+
+- Miura, A., & **Nagamine, T.** (2021, June 18-19). *Using synchronous computer-mediated communication to develop L2 learners’ oral fluency.*　[Poster presentation] Brock University (online), St. Catharines, Ontario, Canada. 
+
+
+-----
+
+
+For other research outputs, please see my researchmap page: &nbsp; <a href='https://researchmap.jp/takayukinagamine' target='_blank'><img title='researchmap' alt='researchmap' src='https://researchmap.jp/outline/img/researchmap130.gif' border="0"/></a>
