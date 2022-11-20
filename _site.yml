@@ -9,8 +9,6 @@ navbar:
       href: about.html
     - text: "Research"
       href: research.html
-    - text: "Private"
-      href: private.html
     - icon: fa-envelope
       href: mailto:t.nagamine@lancaster.ac.uk
 output:

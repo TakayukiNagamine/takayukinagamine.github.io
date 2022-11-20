@@ -2,8 +2,25 @@
 title: "About Me"
 ---
 
-I was born and grown up mostly in the (relatively) central and eastern part of the main island in Japan. I was born in the Prefecture called 'Aichi', which is well-known for the car manufacturing industry where Toyota is headquartered. My first language acquisition took place in Saitama near Tokyo, where I spent the first five years of my life. I moved back to Aichi when I was six and spent the rest of my life (before moving to Europe) there.
+I was born and grown up mostly in the (relatively) central and eastern part of the main island in Japan. I was born in Aichi Prefecture, where Toyota, the car manufacturer, is headquartered. I briefly lived in Saitama, near Tokyo, for five years, before I moved back to Aichi where I lived for the rest of my time in Japan.
+
+```{r echo = FALSE, out.width = "25%", out.extra = "angle=90"}
+knitr::include_graphics("images/okazaki_castle.JPG")
+```
 
 
+## Railway & Travelling
 
-My first language is Japanese. I consider myself as a Tokyo Japanese speaker given that I was grown up near Tokyo when I was a young child, and I seem to have picked up some feature of the regional dialects in Aichi after I moved there. Aichi has several dialects, with a few notable regional variations. Geographically, Aichi could be divided in three regions: Owari (west), Nagoya (the main city of the prefecture), and Mikawa (east), and each area is associated with its own dialect: Owari-ben, Nagoya-ben, and Mikawa-ben, where the suffix '-ben' refers to something like 'dialect'. My hometown in Aichi is the easternmost city in the Owari region called Ichinomiya, which shares the boarder with another prefecture 'Gifu'. This is how I have picked up the features from Tokyo Japanese, the Owari dialect and the Mino dialect (a regional accent in the neighbouring Gifu prefecture). 
+I picked up an interest in trains when I was a young kid. The interest in railway somehow survives in me and I enjoy travelling on rail! 
+
+```{r echo = FALSE, out.width = "25%", out.extra='style="float:left; padding:10px"'}
+knitr::include_graphics("images/profile.png")
+```
+
+
+## Music
+
+## Beer
+
+
+ 
