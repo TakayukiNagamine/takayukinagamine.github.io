@@ -12,11 +12,13 @@ My primary research focus is centred around articulatory phonetics in L2 speech 
 
 ### Peer-reviewed conference paper
 
-
+- **Nagamine, T.** forthcoming. Dynamic tongue movements in L1 Japanese and L2 English liquids. *Proceedings of the 20th International Congress of Phonetic Sciences*, 1-5. 
 
 - <a href='https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/main/papers/nagamine22_interspeech.pdf' target='_blank'><img title='interspeech2022' alt='interspeech2022' src='https://img.icons8.com/officel/20/null/pdf.png' border="0"/></a> &nbsp; **Nagamine, T.** (2022) Acquisition of allophonic variation in second language speech: An acoustic and articulatory study of English laterals by Japanese speakers. *Proc. Interspeech 2022*, 644-648, https://doi.org/10.21437/Interspeech.2022-11020
 
 ### Conference presentation
+
+- **Nagamine, T.** accepted. *Dynamic tongue movements in L1 Japanese and L2 English liquids.* (Conference presentation). Accepted for the 20th International Congress of Phonetic Sciences (ICPhS), Prague Congress Centre, Czech Republic. 
 
 - <a href='https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/main/papers/nagamine_UltrafestX.pdf' target='_blank'><img title='ultrafestx' alt='ultrafestx' src='https://img.icons8.com/officel/20/null/pdf.png' border="0"/></a> &nbsp; **Nagamine, T.** (2022, November 3-4). *Acoustic, perceptual and articulatory properties of second language speech; A case of Japanese speakers’ production of the English /l r/ contrast.* (Conference presentation). Ultrafest X, University of Manchester, Manchester, United Kingdom. 
 

@@ -13,7 +13,7 @@
 
 <title>Research</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.18/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/simplex.min.css" rel="stylesheet" />
@@ -143,11 +143,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -176,8 +180,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -185,16 +189,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -293,18 +290,25 @@ Japanese speakers produce articulatorily-complex English /l r/.</p>
 <div id="peer-reviewed-conference-paper" class="section level3">
 <h3>Peer-reviewed conference paper</h3>
 <ul>
-<li><a href='https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/main/papers/nagamine22_interspeech.pdf' target='_blank'><img title='interspeech2022' alt='interspeech2022' src='https://img.icons8.com/officel/20/null/pdf.png' border="0"/></a>
+<li><p><strong>Nagamine, T.</strong> forthcoming. Dynamic tongue
+movements in L1 Japanese and L2 English liquids. <em>Proceedings of the
+20th International Congress of Phonetic Sciences</em>, 1-5.</p></li>
+<li><p><a href='https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/main/papers/nagamine22_interspeech.pdf' target='_blank'><img title='interspeech2022' alt='interspeech2022' src='https://img.icons8.com/officel/20/null/pdf.png' border="0"/></a>
   <strong>Nagamine, T.</strong> (2022) Acquisition of allophonic
 variation in second language speech: An acoustic and articulatory study
 of English laterals by Japanese speakers. <em>Proc. Interspeech
 2022</em>, 644-648, <a
 href="https://doi.org/10.21437/Interspeech.2022-11020"
-class="uri">https://doi.org/10.21437/Interspeech.2022-11020</a></li>
+class="uri">https://doi.org/10.21437/Interspeech.2022-11020</a></p></li>
 </ul>
 </div>
 <div id="conference-presentation" class="section level3">
 <h3>Conference presentation</h3>
 <ul>
+<li><p><strong>Nagamine, T.</strong> accepted. <em>Dynamic tongue
+movements in L1 Japanese and L2 English liquids.</em> (Conference
+presentation). Accepted for the 20th International Congress of Phonetic
+Sciences (ICPhS), Prague Congress Centre, Czech Republic.</p></li>
 <li><p><a href='https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/main/papers/nagamine_UltrafestX.pdf' target='_blank'><img title='ultrafestx' alt='ultrafestx' src='https://img.icons8.com/officel/20/null/pdf.png' border="0"/></a>
   <strong>Nagamine, T.</strong> (2022, November 3-4). <em>Acoustic,
 perceptual and articulatory properties of second language speech; A case
