@@ -5,12 +5,12 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "About Me"
-      href: about.html
+    # - text: "About Me"
+    #   href: about.html
     - text: "Research"
       href: research.html
-    - text: "Private"
-      href: private.html
+    # - text: "Private"
+    #   href: private.html
     - icon: fa-envelope
       href: mailto:t.nagamine@lancaster.ac.uk
 output:

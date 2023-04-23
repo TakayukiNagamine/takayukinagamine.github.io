@@ -6,9 +6,13 @@ output: html_document
 
 -----
 
-## **L2 Articulatory Phonetics**
+## **L2 Articulatory/Acoustic Phonetics**
 
-My primary research focus is centred around articulatory phonetics in L2 speech production. I'm particularly interested in production of English liquids by L1 Japanese speakers. I use the ultrasound tongue imaging technique to investigate the movement of the tongue while L1 Japanese speakers produce articulatorily-complex English /l r/. 
+```{r echo = FALSE, out.width = "40%", out.extra='style="float:right; padding:10px"'}
+knitr::include_graphics("images/tongue.png")
+```
+
+My primary research focus is centred around phonetics of L2 speech production. I use acoustic and articulatory methods (ultrasound tongue imaging) to understand more about why L1 Japanese speakers struggle to produce English /l/ and /r/. 
 
 ### Peer-reviewed conference paper
 
@@ -40,7 +44,12 @@ University press articles (in Japanese) when I brought the ultrasound machine to
 
 ## **L2 pronunciation learning and teaching**
 
-As a second language English learner myself, I'm also interested in understanding the ways L2 learners improve their pronunciation and listening skills. Specific interests include the use of technology in improving L2 fluency and teaching of L2 listening within the world Englishes paradigm.
+```{r echo = FALSE, out.width = "25%", out.extra='style="float:right; padding:10px"'}
+
+knitr::include_graphics("images/newsounds2022.jpeg")
+```
+
+As a second language English learner myself, I'm also interested in understanding how L2 learners could improve their pronunciation and listening skills. Specific interests include the use of technology in improving L2 fluency and teaching of L2 listening within the world Englishes paradigm.
 
 ### Peer-reviewed conference paper
 
