@@ -22,7 +22,7 @@ My primary research focus is centred around phonetics of L2 speech production. I
 
 ### Conference presentation
 
-- **Nagamine, T.** accepted. *Dynamic tongue movements in L1 Japanese and L2 English liquids.* (Conference presentation). Accepted for the 20th International Congress of Phonetic Sciences (ICPhS), Prague Congress Centre, Czech Republic. 
+- **Nagamine, T.** accepted. *Dynamic tongue movements in L1 Japanese and L2 English liquids.* (Conference presentation). Accepted for the 20th International Congress of Phonetic Sciences (ICPhS), Prague Congress Centre, Prague, Czech Republic. 
 
 - <a href='https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/main/papers/nagamine_UltrafestX.pdf' target='_blank'><img title='ultrafestx' alt='ultrafestx' src='https://img.icons8.com/officel/20/null/pdf.png' border="0"/></a> &nbsp; **Nagamine, T.** (2022, November 3-4). *Acoustic, perceptual and articulatory properties of second language speech; A case of Japanese speakers’ production of the English /l r/ contrast.* (Conference presentation). Ultrafest X, University of Manchester, Manchester, United Kingdom. 
 
@@ -60,6 +60,7 @@ As a second language English learner myself, I'm also interested in understandin
 
 ### Conference presentation
 
+- Miura, A., & **Nagamine, T.**. (2023, August). *Writing as your speaking practice tutor: Anatomizing the practice modality on L2 speaking training*. (Poster presentation) British Association for Applied Linguistics (BAAL) 56th Annual Conference, University of York, York, United Kingdom.
 
 - **Nagamine, T.** & Nishio, Y. (2022, July 31). *Vowels in Asian Englishes Speech: Acoustics, Functional Load, and Implications to the Listening Pedagogy.*  (Conference presentation) The 49th National Conference of the Japanese Association for Asian Englishes, online. 
 
