@@ -4,7 +4,7 @@ title: "Takayuki Nagamine"
 
 
 ```{r echo = FALSE, out.width = "25%", out.extra='style="float:left; padding:10px"'}
-knitr::include_graphics("images/profile.png")
+knitr::include_graphics("images/profile2.png")
 ```
 
 <br>
