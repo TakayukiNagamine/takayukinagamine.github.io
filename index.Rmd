@@ -62,4 +62,4 @@ Also follow me on:&nbsp;&nbsp;<a href='https://researchmap.jp/takayukinagamine' 
 
 <img width="35" height="35" src="https://img.icons8.com/ios-filled/50/monitor--v1.png"/> &nbsp; **R / R Studio**, **Praat**, **Gorilla**, **Microsoft Office**, **LaTeX**, **Moodle**
 
-<img width="35" height="35" src="https://img.icons8.com/ios-filled/50/open-end-wrench.png"/> &nbsp; **Ultrasound tongue imaging ([Articulate Assistant Advanced](http://www.articulateinstruments.com/aaa/))**, **Acoustic analysis**
+<img width="35" height="35" src="https://img.icons8.com/ios-filled/50/open-end-wrench.png"/> &nbsp; **Ultrasound tongue imaging ([Articulate Assistant Advanced](http://www.articulateinstruments.com/aaa/))**, **Acoustic analysis**, **Statistical analysis**
