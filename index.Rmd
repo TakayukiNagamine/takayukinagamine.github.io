@@ -2,12 +2,25 @@
 title: "Takayuki Nagamine"
 ---
 
+<style type="text/css">
+
+body, td {
+   font-size: 16px;
+}
+<!-- code.r{ -->
+<!--   font-size: 12px; -->
+<!-- } -->
+<!-- pre { -->
+<!--   font-size: 12px -->
+<!-- } -->
+</style>
+
 
 ```{r echo = FALSE, out.width = "25%", out.extra='style="float:left; padding:10px"'}
 knitr::include_graphics("images/profile2.png")
 ```
 
-<br>
+
 <br>
 <br>
 I am a 3rd year PhD student at Lancaster University, UK. I use ultrasound tongue imaging to investigate articulation in second language speech, particularly English liquids produced by L1 Japanese speakers. 
@@ -20,8 +33,7 @@ Also follow me on:&nbsp;&nbsp;<a href='https://researchmap.jp/takayukinagamine' 
 
 <br>
 <br>
-<br>
-<br>
+
 
 ### Research interests
 
@@ -41,3 +53,13 @@ Also follow me on:&nbsp;&nbsp;<a href='https://researchmap.jp/takayukinagamine' 
 <img src="https://img.icons8.com/glyph-neue/40/null/graduation-cap.png"/> &nbsp; **2015 - 2016** &nbsp; **Master of Arts in Linguistics (with Merit), [University College London](https://www.ucl.ac.uk/), UK.**
 
 <img src="https://img.icons8.com/glyph-neue/40/null/graduation-cap.png"/> &nbsp; **2010 - 2015** &nbsp; **Bachelor of Arts in Education Studies, [Aichi University of Education](https://www.aichi-edu.ac.jp/), Japan.**
+
+<br>
+
+### Skills
+
+<img width="35" height="35" src="https://img.icons8.com/ios-filled/50/language.png"/> &nbsp; **Japanese** (Native), **English** (Fluent, CEFR: C1), **German** (Beginner, CEFR: A2)
+
+<img width="35" height="35" src="https://img.icons8.com/ios-filled/50/monitor--v1.png"/> &nbsp; **R / R Studio**, **Praat**, **Gorilla**, **Microsoft Office**, **LaTeX** **Moodle**
+
+<img width="35" height="35" src="https://img.icons8.com/ios-filled/50/open-end-wrench.png"/> &nbsp; **Ultrasound tongue imaging ([Articulate Assistant Advanced](http://www.articulateinstruments.com/aaa/))**, **Acoustic analysis**

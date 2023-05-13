@@ -3,6 +3,18 @@ title: "Research"
 output: html_document
 ---
 
+<style type="text/css">
+
+body, td {
+   font-size: 16px;
+}
+<!-- code.r{ -->
+<!--   font-size: 12px; -->
+<!-- } -->
+<!-- pre { -->
+<!--   font-size: 12px -->
+<!-- } -->
+</style>
 
 -----
 
@@ -16,13 +28,13 @@ My primary research focus is centred around phonetics of L2 speech production. I
 
 ### Peer-reviewed conference paper
 
-- **Nagamine, T.** forthcoming. Dynamic tongue movements in L1 Japanese and L2 English liquids. *Proceedings of the 20th International Congress of Phonetic Sciences*, 1-5. 
+- **Nagamine, T.** (Forthcoming). Dynamic tongue movements in L1 Japanese and L2 English liquids. *Proceedings of the 20th International Congress of Phonetic Sciences*, 1-5. 
 
 - <a href='https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/main/papers/nagamine22_interspeech.pdf' target='_blank'><img title='interspeech2022' alt='interspeech2022' src='https://img.icons8.com/officel/20/null/pdf.png' border="0"/></a> &nbsp; **Nagamine, T.** (2022) Acquisition of allophonic variation in second language speech: An acoustic and articulatory study of English laterals by Japanese speakers. *Proc. Interspeech 2022*, 644-648, https://doi.org/10.21437/Interspeech.2022-11020
 
 ### Conference presentation
 
-- **Nagamine, T.** (2023, August 7-11) *Dynamic tongue movements in L1 Japanese and L2 English liquids.* (Conference presentation). Accepted for the 20th International Congress of Phonetic Sciences (ICPhS), Prague Congress Centre, Prague, Czech Republic. 
+- **Nagamine, T.** (2023, August 7-11). *Dynamic tongue movements in L1 Japanese and L2 English liquids.* (Conference presentation). Accepted for the 20th International Congress of Phonetic Sciences (ICPhS), Prague Congress Centre, Prague, Czech Republic. 
 
 - <a href='https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/main/papers/nagamine_UltrafestX.pdf' target='_blank'><img title='ultrafestx' alt='ultrafestx' src='https://img.icons8.com/officel/20/null/pdf.png' border="0"/></a> &nbsp; **Nagamine, T.** (2022, November 3-4). *Acoustic, perceptual and articulatory properties of second language speech; A case of Japanese speakers’ production of the English /l r/ contrast.* (Conference presentation). Ultrafest X, University of Manchester, Manchester, United Kingdom. 
 
@@ -39,6 +51,27 @@ University press articles (in Japanese) when I brought the ultrasound machine to
 
 - 18 October 2022 at [Kobe Gakuin University](https://www.kobegakuin.ac.jp/education/faculty_global/news/988939cb1a72698c58a1.html), Hyogo, Japan.
 
+-----
+
+## **Ultrasound Phonetics**
+
+```{r echo = FALSE, out.width = "30%", out.extra='style="float:right; padding:10px"'}
+knitr::include_graphics("images/ultrasound.jpeg")
+```
+
+Outside my scope of L2 Phonetics, I have been involved in phonetics research using ultrasound tongue imaging. 
+
+### Peer-reviewed conference paper
+
+- Nance, C., Dewhurst, M., Fairclough, L., Forster, P., Kirkham, S., **Nagamine, T.**, Turton, T., & Wang, D. (Forthcoming). Acoustic and articulatory characteristics of rhoticity in the North-West of England.  *Proceedings of the 20th International Congress of Phonetic Sciences*, 1-5. 
+
+- Kirkham, S., Strycharczuk, P., Gorman, E., **Nagamine, T.**, & Wrench, A. (Forthcoming). Co-registration of high-speed ultrasound and electromagnetic articulography for speech production research. *Proceedings of the 20th International Congress of Phonetic Sciences*, 1-5. 
+
+### Conference presentation
+
+- Nance, C., Dewhurst, M., Fairclough, L., Forster, P., Kirkham, S., **Nagamine, T.**, Turton, T., & Wang, D. (2023, August 7-11). *Acoustic and articulatory characteristics of rhoticity in the North-West of England*. (Conference presentation). Accepted for the 20th International Congress of Phonetic Sciences (ICPhS), Prague Congress Centre, Prague, Czech Republic. 
+
+- Kirkham, S., Strycharczuk, P., Gorman, E., **Nagamine, T.**, & Wrench, A. (2023, August 7-11). *Co-registration of high-speed ultrasound and electromagnetic articulography for speech production research*. (Conference presentation). Accepted for the 20th International Congress of Phonetic Sciences (ICPhS), Prague Congress Centre, Prague, Czech Republic. 
 
 -----
 
@@ -62,11 +95,11 @@ As a second language English learner myself, I'm also interested in understandin
 
 - Miura, A., & **Nagamine, T.**. (2023, August 23-25). *Writing as your speaking practice tutor: Anatomizing the practice modality on L2 speaking training*. (Poster presentation) British Association for Applied Linguistics (BAAL) 56th Annual Conference, University of York, York, United Kingdom.
 
-- **Nagamine, T.** & Nishio, Y. (2022, July 31). *Vowels in Asian Englishes Speech: Acoustics, Functional Load, and Implications to the Listening Pedagogy.*  (Conference presentation) The 49th National Conference of the Japanese Association for Asian Englishes, online. 
+- **Nagamine, T.** & Nishio, Y. (2022, July 31). *Vowels in Asian Englishes Speech: Acoustics, Functional Load, and Implications to the Listening Pedagogy*.  (Conference presentation) The 49th National Conference of the Japanese Association for Asian Englishes, online. 
 
-- **Nagamine, T.** & Miura, A. (2022, April 20-22). *Write to speak: Effects of timed writing practice on development of the L2 learners' oral performance.*  (Poster presentation) NewSounds 2022: The 10th International Symposium on the Acquisition of Second Language Speech, University of Barcelona, Barcelona, Spain.
+- **Nagamine, T.** & Miura, A. (2022, April 20-22). *Write to speak: Effects of timed writing practice on development of the L2 learners' oral performance*.  (Poster presentation) NewSounds 2022: The 10th International Symposium on the Acquisition of Second Language Speech, University of Barcelona, Barcelona, Spain.
 
-- Miura, A., & **Nagamine, T.** (2021, June 18-19). *Using synchronous computer-mediated communication to develop L2 learners’ oral fluency.*　(Poster presentation) Brock University (online), St. Catharines, Ontario, Canada. 
+- Miura, A., & **Nagamine, T.** (2021, June 18-19). *Using synchronous computer-mediated communication to develop L2 learners’ oral fluency*.　(Poster presentation) Brock University (online), St. Catharines, Ontario, Canada. 
 
 
 -----
