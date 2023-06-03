@@ -16,6 +16,9 @@ body, td {
 <!-- } -->
 </style>
 
+Here, I introduce some of my research outputs by research themes/topics. For a complete list of publications and presentations, please see my [CV](https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/main/papers/Takayuki_Nagamine_CV.pdf) or visit [my researchmap page](https://researchmap.jp/takayukinagamine). 
+
+
 -----
 
 ## **L2 Articulatory/Acoustic Phonetics**
@@ -105,4 +108,4 @@ As a second language English learner myself, I'm also interested in understandin
 -----
 
 
-For other research outputs, please see my researchmap page: &nbsp; <a href='https://researchmap.jp/takayukinagamine' target='_blank'><img title='researchmap' alt='researchmap' src='https://researchmap.jp/outline/img/researchmap130.gif' border="0"/></a>
+For other research outputs, please see my [CV](https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/main/papers/Takayuki_Nagamine_CV.pdf) or visit my researchmap page: &nbsp; <a href='https://researchmap.jp/takayukinagamine' target='_blank'><img title='researchmap' alt='researchmap' src='https://researchmap.jp/outline/img/researchmap130.gif' border="0"/></a>
