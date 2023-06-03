@@ -11,6 +11,8 @@ navbar:
       href: research.html
     - text: "Teaching"
       href: teaching.html
+    - text: "Researchmap"
+      href: researchmap.html
     - icon: fa-envelope
       href: mailto:t.nagamine@lancaster.ac.uk
 output:
