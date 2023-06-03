@@ -19,6 +19,6 @@ body, td {
 ```{r echo = FALSE, out.width = "800px"}
 # install.packages("webshot")
 # library(webshot)
-knitr::include_url("https://researchmap.jp/takayukinagamine", height = "1000px")
+knitr::include_url("https://researchmap.jp/takayukinagamine", height = "750px")
 ```
 
