@@ -31,13 +31,13 @@ My primary research focus is centred around phonetics of L2 speech production. I
 
 ### Peer-reviewed conference paper
 
-- <a href='https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/main/papers/icphs2023_Takayuki_Nagamine.pdf' target='_blank'><img title='icphs2023' alt='icphs2023' src='https://img.icons8.com/officel/20/null/pdf.png' border="0"/></a> &nbsp; **Nagamine, T.** (2023). Dynamic tongue movements in L1 Japanese and L2 English liquids. In: Radek Skarnitzl & Jan Volín (Eds.), Proceedings of the 20th International Congress of Phonetic Sciences (pp. 2442–2446). Guarant International.
+- <a href='https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/main/papers/icphs2023_Takayuki_Nagamine.pdf' target='_blank'><img title='icphs2023' alt='icphs2023' src='https://img.icons8.com/officel/20/null/pdf.png' border="0"/></a> &nbsp; **Nagamine, T.** (2023). Dynamic tongue movements in L1 Japanese and L2 English liquids. In: Radek Skarnitzl & Jan Volín (Eds.), Proceedings of the 20th International Congress of Phonetic Sciences (pp. 2442–2446). Guarant International. [Online Supplementary Materials](https://osf.io/29tac/)
 
 - <a href='https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/main/papers/nagamine22_interspeech.pdf' target='_blank'><img title='interspeech2022' alt='interspeech2022' src='https://img.icons8.com/officel/20/null/pdf.png' border="0"/></a> &nbsp; **Nagamine, T.** (2022). Acquisition of allophonic variation in second language speech: An acoustic and articulatory study of English laterals by Japanese speakers. *Proc. Interspeech 2022*, 644-648, https://doi.org/10.21437/Interspeech.2022-11020
 
 ### Conference presentation
 
-- **Nagamine, T.** (2023, August 7-11). *Dynamic tongue movements in L1 Japanese and L2 English liquids.* (Conference presentation). The 20th International Congress of Phonetic Sciences (ICPhS), Prague Congress Centre, Prague, Czech Republic. 
+- <a href='https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/main/papers/icphs2023_slides.pdf' target='_blank'><img title='icphs2023_slides' alt='icphs2023_slides' src='https://img.icons8.com/officel/20/null/pdf.png' border="0"/></a> &nbsp; **Nagamine, T.** (2023, August 7-11). *Dynamic tongue movements in L1 Japanese and L2 English liquids.* (Conference presentation). The 20th International Congress of Phonetic Sciences (ICPhS), Prague Congress Centre, Prague, Czech Republic. 
 
 - <a href='https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/main/papers/nagamine_UltrafestX.pdf' target='_blank'><img title='ultrafestx' alt='ultrafestx' src='https://img.icons8.com/officel/20/null/pdf.png' border="0"/></a> &nbsp; **Nagamine, T.** (2022, November 3-4). *Acoustic, perceptual and articulatory properties of second language speech; A case of Japanese speakers’ production of the English /l r/ contrast.* (Conference presentation). Ultrafest X, University of Manchester, Manchester, United Kingdom. 
 
@@ -66,9 +66,9 @@ Outside my scope of L2 Phonetics, I have been involved in phonetics research usi
 
 ### Peer-reviewed conference paper
 
-- Nance, C., Dewhurst, M., Fairclough, L., Forster, P., Kirkham, S., **Nagamine, T.**, Turton, T., & Wang, D. (Forthcoming). Acoustic and articulatory characteristics of rhoticity in the North-West of England. In: Radek Skarnitzl & Jan Volín (Eds.), Proceedings of the 20th International Congress of Phonetic Sciences (pp. 3573–3577). Guarant International.
+- <a href='https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/main/papers/Nanceetal_2023.pdf' target='_blank'><img title='icphs2023_nance_etal_2023' alt='icphs2023_nance_etal_2023' src='https://img.icons8.com/officel/20/null/pdf.png' border="0"/></a> &nbsp; Nance, C., Dewhurst, M., Fairclough, L., Forster, P., Kirkham, S., **Nagamine, T.**, Turton, T., & Wang, D. (Forthcoming). Acoustic and articulatory characteristics of rhoticity in the North-West of England. In: Radek Skarnitzl & Jan Volín (Eds.), Proceedings of the 20th International Congress of Phonetic Sciences (pp. 3573–3577). Guarant International. [Online Supplementary Materials](https://osf.io/wb9m5/)
 
-- Kirkham, S., Strycharczuk, P., Gorman, E., **Nagamine, T.**, & Wrench, A. (Forthcoming). Co-registration of high-speed ultrasound and electromagnetic articulography for speech production research. In: Radek Skarnitzl & Jan Volín (Eds.), Proceedings of the 20th International Congress of Phonetic Sciences (pp. 918-922). Guarant International.
+- <a href='papers/kirkhametal_2023.pdf' target='_blank'><img title='icphs2023_kirkham_etal_2023' alt='icphs2023_kirkham_etal_2023' src='https://img.icons8.com/officel/20/null/pdf.png' border="0"/></a> &nbsp; Kirkham, S., Strycharczuk, P., Gorman, E., **Nagamine, T.**, & Wrench, A. (Forthcoming). Co-registration of high-speed ultrasound and electromagnetic articulography for speech production research. In: Radek Skarnitzl & Jan Volín (Eds.), Proceedings of the 20th International Congress of Phonetic Sciences (pp. 918-922). Guarant International.
 
 ### Conference presentation
 
