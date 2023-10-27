@@ -28,7 +28,7 @@ knitr::include_graphics("images/profile2.png")
 I am a final year PhD candidate at Lancaster University, UK. I use ultrasound tongue imaging to investigate articulation in second language speech, particularly English liquids produced by L1 Japanese speakers. 
 
 
-My PhD research is funded by [Japan Student Services Organisation (JASSO)](https://www.jasso.go.jp/ryugaku/scholarship_a/daigakuin/index.html) and [The Murata Science Foundation](https://corporate.murata.com/ja-jp/group/zaidan).
+My PhD research has been funded by [Japan Student Services Organisation (JASSO)](https://www.jasso.go.jp/ryugaku/scholarship_a/daigakuin/index.html) and [The Murata Science Foundation](https://corporate.murata.com/ja-jp/group/zaidan).
 
 
 My CV can be downloaded [here](https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/main/papers/Takayuki_Nagamine_CV.pdf) (last updated: 14 August 2023).
