@@ -25,7 +25,7 @@ knitr::include_graphics("images/profile2.png")
 
 <br>
 <br>
-I am a final year PhD candidate at Lancaster University, UK. I use ultrasound tongue imaging to investigate articulation in second language speech, particularly English liquids produced by L1 Japanese speakers. 
+I am a final year PhD candidate at Lancaster University, UK. My research interest lies in bilingual/second language (L2) speech production, informed by experimental methods in articulatory/acoustic phonetics and laboratory phonology. In my PhD project, I use ultrasound tongue imaging to investigate acoustic/articulatory dynamics of L2 English liquids produced by L1 Japanese speakers. 
 
 
 My PhD research has been funded by [Japan Student Services Organisation (JASSO)](https://www.jasso.go.jp/ryugaku/scholarship_a/daigakuin/index.html) and [The Murata Science Foundation](https://corporate.murata.com/ja-jp/group/zaidan).
