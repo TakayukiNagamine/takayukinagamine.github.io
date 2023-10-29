@@ -18,7 +18,7 @@ body, td {
 
 
 
-```{r echo = FALSE, out.width = "30%", out.extra='style="float:left; padding:30px"'}
+```{r echo = FALSE, out.width = "35%", out.extra='style="float:left; padding:30px"'}
 knitr::include_graphics("images/profile2.png")
 ```
 
