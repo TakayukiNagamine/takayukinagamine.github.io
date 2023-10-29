@@ -26,6 +26,18 @@ body, td {
 # knitr::include_graphics("images/teaching1.jpeg")
 ```
 
+- **LING325 Topics in Phonetic and Phonological Theory** 
+
+  - Seminar tutor: 3rd year UG, Lancaster University (2023/24: upcoming)
+
+  - Ten seminars on theoretical topics in phonetics and phonology
+
+- **LING327 Advanced English Phonetics** 
+
+  - Seminar tutor: 3rd year UG, Lancaster University (2023/24: ongoing)
+
+  - Ten seminars on topics on acoustic and auditory phonetics
+
 - **LING103 Linguistics** 
 
   - Lecturer: 1st year UG, Lancaster University (2022/23)
@@ -34,7 +46,7 @@ body, td {
 
 - **LING221 Sounds of the world's languages** 
 
-  - Seminar tutor: 2nd year UG, Lancaster University (2022/23)
+  - Seminar tutor: 2nd year UG, Lancaster University (2022-24)
 
   - Ten seminars on theoretical issues in Phonetics and acoustic analysis using Praat
 
@@ -70,9 +82,21 @@ body, td {
 
 -----
 
+## **English for Academic Purposes (EAP)**
+
+In September 2023, I served as a tutor on the English for Academic Purposes (EAP) course at Lancaster University. I tutored 13 incoming postgraduate students and were responsible for teaching, one-to-one tutoring, marking essays and providing detailed feedback on their writing. Key topics of the course include:
+
+  - Academic Reading and Writing: critical thinking, academic integrity, referencing, paragraph structure
+  
+  - Listening and Reading for Discussion: strategies for effective reading and listening, note taking, poster presentation
+  
+  - Oral Presentation: use of visual aids in presentation, taking and answers questions, delivering effective oral presentations
+
+-----
+
 ## **English Language Teaching**
 
-I have also taught English to undergraduate students between 2016 and 2020 at various universities in Japan, including:
+I have also taught English to undergraduate students between 2016 and 2020 at various institutions in Japan, including:
 
   - Aichi University of Education (愛知教育大学)
   
