@@ -25,7 +25,7 @@ knitr::include_graphics("images/profile2.png")
 
 <br>
 <br>
-I am a final year PhD candidate at Lancaster University, UK. My research interest lies in bilingual/second language (L2) speech production, informed by experimental methods in articulatory/acoustic phonetics and laboratory phonology. In my PhD project, I use ultrasound tongue imaging to investigate acoustic/articulatory dynamics of L2 English liquids produced by L1 Japanese speakers. 
+I am a final year PhD candidate at Lancaster University, UK. My research interest lies in bilingual/second language (L2) speech production, informed by experimental methods in articulatory/acoustic phonetics and laboratory phonology. In my PhD project, I investigate acoustic/articulatory dynamics of L2 English liquids produced by L1 Japanese speakers using ultrasound tongue imaging and quantitative data analysis methods. 
 
 
 My PhD research has been funded by [Japan Student Services Organisation (JASSO)](https://www.jasso.go.jp/ryugaku/scholarship_a/daigakuin/index.html) and [The Murata Science Foundation](https://corporate.murata.com/ja-jp/group/zaidan).
@@ -51,6 +51,8 @@ Also follow me on:&nbsp;&nbsp;<a href='https://researchmap.jp/takayukinagamine' 
 
 ### Education
 <img src="https://img.icons8.com/glyph-neue/40/null/graduation-cap.png"/> &nbsp; **2020 - Present** &nbsp; **PhD Candidate in Linguistics, [Lancaster University](https://www.lancaster.ac.uk/), UK.**
+
+  Supervisors: [Professor Claire Nance](https://clairenance.github.io/) and [Dr Sam Kirkham](https://samkirkham.github.io/)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(See also: [Lancaster University Phonetics Lab](http://wp.lancs.ac.uk/phonetics/))
 
