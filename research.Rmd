@@ -29,6 +29,10 @@ knitr::include_graphics("images/tongue.png")
 
 My primary research focus is centred around phonetics of L2 speech production. I use acoustic and articulatory methods (ultrasound tongue imaging) to understand more about why L1 Japanese speakers struggle to produce English /l/ and /r/. 
 
+### Peer-reviewed journal article
+
+- **Nagamine, T.** (Accepted). Formant dynamics in second language speech: Japanese speakers' production of English liquids. *The Journal of Acoustical Society of America.*
+
 ### Peer-reviewed conference paper
 
 - <a href='https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/main/papers/icphs2023_Takayuki_Nagamine.pdf' target='_blank'><img title='icphs2023' alt='icphs2023' src='https://img.icons8.com/officel/20/null/pdf.png' border="0"/></a> &nbsp; **Nagamine, T.** (2023). Dynamic tongue movements in L1 Japanese and L2 English liquids. In: Radek Skarnitzl & Jan Volín (Eds.), Proceedings of the 20th International Congress of Phonetic Sciences (pp. 2442–2446). Guarant International. [Online Supplementary Materials](https://osf.io/29tac/)
