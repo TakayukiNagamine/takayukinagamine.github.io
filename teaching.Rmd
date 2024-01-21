@@ -28,13 +28,13 @@ body, td {
 
 - **LING325 Topics in Phonetic and Phonological Theory** 
 
-  - Seminar tutor: 3rd year UG, Lancaster University (2023/24: upcoming)
+  - Seminar tutor: 3rd year UG, Lancaster University (2023/24, ongoing)
 
   - Ten seminars on theoretical topics in phonetics and phonology
 
 - **LING327 Advanced English Phonetics** 
 
-  - Seminar tutor: 3rd year UG, Lancaster University (2023/24: ongoing)
+  - Seminar tutor: 3rd year UG, Lancaster University (2023/24)
 
   - Ten seminars on topics on acoustic and auditory phonetics
 
@@ -46,7 +46,7 @@ body, td {
 
 - **LING221 Sounds of the world's languages** 
 
-  - Seminar tutor: 2nd year UG, Lancaster University (2022-24)
+  - Seminar tutor: 2nd year UG, Lancaster University (2022-24, ongoing)
 
   - Ten seminars on theoretical issues in Phonetics and acoustic analysis using Praat
 

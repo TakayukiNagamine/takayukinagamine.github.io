@@ -27,17 +27,17 @@ Here, I introduce some of my research outputs by research projects. For a comple
 knitr::include_graphics("images/tongue.png")
 ```
 
-My primary research focus is centred around phonetics of L2 speech production. I use acoustic and articulatory methods (ultrasound tongue imaging) to understand more about why L1 Japanese speakers struggle to produce English /l/ and /r/. 
+In my PhD project, I investigate acoustic and articulatory dynamics in L1 Japanese speakers' production of English liquids. 
 
 ### Peer-reviewed journal article
 
-- **Nagamine, T.** (Accepted). Formant dynamics in second language speech: Japanese speakers' production of English liquids. *The Journal of Acoustical Society of America.*
+- **Nagamine, T.** (Forthcoming). Formant dynamics in second language speech: Japanese speakers' production of English liquids. *The Journal of Acoustical Society of America.* [Online Supplementary Materials](https://osf.io/2phx5/)
 
 ### Peer-reviewed conference paper
 
-- <a href='https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/main/papers/icphs2023_Takayuki_Nagamine.pdf' target='_blank'><img title='icphs2023' alt='icphs2023' src='https://img.icons8.com/officel/20/null/pdf.png' border="0"/></a> &nbsp; **Nagamine, T.** (2023). Dynamic tongue movements in L1 Japanese and L2 English liquids. In: Radek Skarnitzl & Jan Volín (Eds.), Proceedings of the 20th International Congress of Phonetic Sciences (pp. 2442–2446). Guarant International. [Online Supplementary Materials](https://osf.io/29tac/)
+- <a href='https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/main/papers/icphs2023_Takayuki_Nagamine.pdf' target='_blank'><img title='icphs2023' alt='icphs2023' src='https://img.icons8.com/officel/20/null/pdf.png' border="0"/></a> &nbsp; **Nagamine, T.** (2023). Dynamic tongue movements in L1 Japanese and L2 English liquids. In R. Skarnitzl & J. Volín (Eds.), *Proceedings of the 20th International Congress of Phonetic Sciences* (pp. 2442–2446). Guarant International. [Online Supplementary Materials](https://osf.io/29tac/)
 
-- <a href='https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/main/papers/nagamine22_interspeech.pdf' target='_blank'><img title='interspeech2022' alt='interspeech2022' src='https://img.icons8.com/officel/20/null/pdf.png' border="0"/></a> &nbsp; **Nagamine, T.** (2022). Acquisition of allophonic variation in second language speech: An acoustic and articulatory study of English laterals by Japanese speakers. *Proc. Interspeech 2022*, 644-648, https://doi.org/10.21437/Interspeech.2022-11020
+- <a href='https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/main/papers/nagamine22_interspeech.pdf' target='_blank'><img title='interspeech2022' alt='interspeech2022' src='https://img.icons8.com/officel/20/null/pdf.png' border="0"/></a> &nbsp; **Nagamine, T.** (2022). Acquisition of allophonic variation in second language speech: An acoustic and articulatory study of English laterals by Japanese speakers. *Proc. Interspeech 2022* (pp. 644-648). https://doi.org/10.21437/Interspeech.2022-11020
 
 ### Conference presentation
 
@@ -52,7 +52,7 @@ My primary research focus is centred around phonetics of L2 speech production. I
 
 ### Press coverage
 
-University press articles (in Japanese) when I brought the ultrasound machine to the undergraduate English Phonetics classes.
+University press articles (in Japanese) reporting activities with students using ultrasound.
 
 - 31 October 2022 at [Meijo University](https://www.meijo-u.ac.jp/news/detail_28009.html), Aichi, Japan.
 
@@ -90,6 +90,21 @@ The Lancashire Tongue project has been featured in local/national news:
 
 -----
 
+## **U-DNR: Articulatory characterisation of Japanese liquids using ultrasound**
+
+```{r echo = FALSE, out.width = "25%", out.extra='style="float:right; padding:10px"'}
+
+knitr::include_graphics("images/dnr_tongue.png")
+```
+
+I collaborate with [Maho Morimoto](https://sites.google.com/view/mamorimo/) (Sophia University/Japan Society for the Promotional Science) for ultrasound study of Japanese liquids. 
+
+### Miscellaneous
+
+- <a href='https://github.com/TakayukiNagamine/takayukinagamine.github.io/blob/4d620089f288e8a60ee93438dcdfcf14da849ab0/papers/Nagamine_Morimoto_DNR.pdf' target='_blank'><img title='icphs2023_nance_etal_2023' alt='icphs2023_nance_etal_2023' src='https://img.icons8.com/officel/20/null/pdf.png' border="0"/></a> &nbsp; **Nagamine, T.** & Morimoto, M. (2024, January 20). *Project U-DNR: Articulatory research of Japanese consonants /d n r/ using ultrasound* (Project overview). Linguistics Festival 2024, online, Japan. 
+
+-----
+
 ## **L2 pronunciation learning and teaching**
 
 ```{r echo = FALSE, out.width = "25%", out.extra='style="float:right; padding:10px"'}
@@ -97,7 +112,7 @@ The Lancashire Tongue project has been featured in local/national news:
 knitr::include_graphics("images/newsounds2022.jpeg")
 ```
 
-I have also been involved in projects on L2 pronunciation teaching. I have investigated the use of technology in improving L2 fluency (with [Atsushi Miura](https://researchmap.jp/atsushimiura): Waseda University, Japan) and teaching of L2 listening within the world Englishes paradigm (with [Prof. Yuri Nishio](https://www.meijo-u.ac.jp/sp/foreign/educator/nishio/): Meijo University, Japan).
+I have also been involved in projects on L2 pronunciation teaching. I have worked with [Atsushi Miura](https://researchmap.jp/atsushimiura) (Waseda University, Japan) to investigate the use of technology in improving L2 fluency and with [Prof. Yuri Nishio](https://www.meijo-u.ac.jp/sp/foreign/educator/nishio/) (Meijo University, Japan) to investigate the effects of unfamiliar accents on L2 English listening. 
 
 ### Peer-reviewed conference paper
 
