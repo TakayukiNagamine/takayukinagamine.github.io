@@ -16,12 +16,12 @@ body, td {
 <!-- } -->
 </style>
 
-Here, I introduce some of my research outputs by research themes/topics. For a complete list of publications and presentations, please see my [CV](https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/main/papers/Takayuki_Nagamine_CV.pdf) or visit [my researchmap page](https://researchmap.jp/takayukinagamine). 
+Here, I introduce some of my research outputs by research projects. For a complete list of publications and presentations, please see my [CV](https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/main/papers/Takayuki_Nagamine_CV.pdf) or visit [my researchmap page](https://researchmap.jp/takayukinagamine). 
 
 
 -----
 
-## **L2 Articulatory/Acoustic Phonetics**
+## **Dynamics in L2 speech: L1 Japanese speakers’ production of English liquids**
 
 ```{r echo = FALSE, out.width = "40%", out.extra='style="float:right; padding:10px"'}
 knitr::include_graphics("images/tongue.png")
@@ -50,7 +50,7 @@ My primary research focus is centred around phonetics of L2 speech production. I
 
 - **Nagamine, T.** & Suzuki, S. (2022, April 4-8). *Dynamic phonetic correlates of liquid contrasts in Japanese speakers of English.* (Conference presentation). BAAP 2022: Colloquium of the British Association of Academic Phoneticians, University of York (online), York, United Kingdom.
 
-### Miscellaneous
+### Press coverage
 
 University press articles (in Japanese) when I brought the ultrasound machine to the undergraduate English Phonetics classes.
 
@@ -60,13 +60,13 @@ University press articles (in Japanese) when I brought the ultrasound machine to
 
 -----
 
-## **Ultrasound Phonetics**
+## **Language variation and change**
 
 ```{r echo = FALSE, out.width = "30%", out.extra='style="float:right; padding:10px"'}
 knitr::include_graphics("images/ultrasound.jpeg")
 ```
 
-Outside my scope of L2 Phonetics, I have been involved in phonetics research using ultrasound tongue imaging. 
+I am involved in projects investigating language variation and change using articulatory methods.
 
 ### Peer-reviewed conference paper
 
@@ -80,6 +80,14 @@ Outside my scope of L2 Phonetics, I have been involved in phonetics research usi
 
 - Kirkham, S., Strycharczuk, P., Gorman, E., **Nagamine, T.**, & Wrench, A. (2023, August 7-11). *Co-registration of high-speed ultrasound and electromagnetic articulography for speech production research*. (Conference presentation). Accepted for the 20th International Congress of Phonetic Sciences (ICPhS), Prague Congress Centre, Prague, Czech Republic. 
 
+### Press coverage
+
+The Lancashire Tongue project has been featured in local/national news:
+
+- 7 November 2023 on BBC Lancashire [Study to look at why Burnley and Blackburn 'speak very differently'](https://www.bbc.co.uk/news/uk-england-lancashire-67345388)
+
+- 12 November 2023 on [BBC North West](https://www.facebook.com/BBCNW/videos/866637831714994)
+
 -----
 
 ## **L2 pronunciation learning and teaching**
@@ -89,7 +97,7 @@ Outside my scope of L2 Phonetics, I have been involved in phonetics research usi
 knitr::include_graphics("images/newsounds2022.jpeg")
 ```
 
-As a second language English learner myself, I'm also interested in understanding how L2 learners could improve their pronunciation and listening skills. Specific interests include the use of technology in improving L2 fluency (with [Atsushi Miura](https://researchmap.jp/atsushimiura): Waseda University, Japan) and teaching of L2 listening within the world Englishes paradigm (with [Prof. Yuri Nishio](https://www.meijo-u.ac.jp/sp/foreign/educator/nishio/): Meijo University, Japan).
+I have also been involved in projects on L2 pronunciation teaching. I have investigated the use of technology in improving L2 fluency (with [Atsushi Miura](https://researchmap.jp/atsushimiura): Waseda University, Japan) and teaching of L2 listening within the world Englishes paradigm (with [Prof. Yuri Nishio](https://www.meijo-u.ac.jp/sp/foreign/educator/nishio/): Meijo University, Japan).
 
 ### Peer-reviewed conference paper
 

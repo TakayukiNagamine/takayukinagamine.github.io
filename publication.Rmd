@@ -1,0 +1,36 @@
+---
+title: "Publication"
+output: html_document
+---
+
+<style type="text/css">
+
+body, td {
+   font-size: 16px;
+}
+<!-- code.r{ -->
+<!--   font-size: 12px; -->
+<!-- } -->
+<!-- pre { -->
+<!--   font-size: 12px -->
+<!-- } -->
+</style>
+
+<br>
+
+-----
+
+## **Phonetics/Phonology**
+
+```{r echo = FALSE, out.width = "20%", out.extra='style="float:right; padding:10px"'}
+# knitr::include_graphics("images/teaching1.jpeg")
+```
+
+
+
+-----
+
+Please also see my researchmap page: &nbsp; <a href='https://researchmap.jp/takayukinagamine' target='_blank'><img title='researchmap' alt='researchmap' src='https://researchmap.jp/outline/img/researchmap130.gif' border="0"/></a>  
+
+
+  
