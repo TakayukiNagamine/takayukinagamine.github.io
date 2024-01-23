@@ -31,7 +31,8 @@ In my PhD project, I investigate acoustic and articulatory dynamics in L1 Japane
 
 ### Peer-reviewed journal article
 
-- **Nagamine, T.** (Forthcoming). Formant dynamics in second language speech: Japanese speakers' production of English liquids. *The Journal of Acoustical Society of America.* [Online Supplementary Materials](https://osf.io/2phx5/)
+- <a href='https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/main/papers/Nagamine_2024_JASA.pdf' target='_blank'><img title='jasa2024' alt='jasa2024' src='https://img.icons8.com/officel/20/null/pdf.png' border="0"/></a> &nbsp; **Nagamine, T.** (2024). Formant dynamics in second language speech: Japanese speakers' production of English liquids. *The Journal of Acoustical Society of America, 155*(1), 479-495. [https://doi.org/10.1121/10.0024351](https://doi.org/10.1121/10.0024351). [Online Supplementary Materials](https://osf.io/2phx5/)
+(&copy; 2024 Author(s). This article is distributed under a Creative Commons Attribution (CC BY) License.)
 
 ### Peer-reviewed conference paper
 
