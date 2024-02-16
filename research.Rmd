@@ -42,14 +42,18 @@ In my PhD project, I investigate acoustic and articulatory dynamics in L1 Japane
 
 ### Conference presentation
 
-- <a href='https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/main/papers/icphs2023_slides.pdf' target='_blank'><img title='icphs2023_slides' alt='icphs2023_slides' src='https://img.icons8.com/officel/20/null/pdf.png' border="0"/></a> &nbsp; **Nagamine, T.** (2023, August 7-11). *Dynamic tongue movements in L1 Japanese and L2 English liquids.* (Conference presentation). The 20th International Congress of Phonetic Sciences (ICPhS), Prague Congress Centre, Prague, Czech Republic. 
+- **Nagamine, T.** (2024, May 13-17). *Acquisition of articulatory dynamics in second language speech: Japanese speakers’ production of English and Japanese liquids.* (Poster presentation). Accepted for the 13th International Seminar on Speech Production (ISSP), L'Escandille, Autrans, France. 
 
-- <a href='https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/main/papers/nagamine_UltrafestX.pdf' target='_blank'><img title='ultrafestx' alt='ultrafestx' src='https://img.icons8.com/officel/20/null/pdf.png' border="0"/></a> &nbsp; **Nagamine, T.** (2022, November 3-4). *Acoustic, perceptual and articulatory properties of second language speech; A case of Japanese speakers’ production of the English /l r/ contrast.* (Conference presentation). Ultrafest X, University of Manchester, Manchester, United Kingdom. 
+- **Nagamine, T.** (2024, March 25-27). *Using Functional Principal Component Analysis for articulatory dynamics of English liquids: L1 Japanese speakers' production of English /l ɹ/ and Japanese /ɾ/.* (Oral presentation). Accepted for the Colloquium of the British Association of Academic Phoneticians 2024 (BAAP2024), Cardiff University, Cardiff, United Kingdom.
 
-- **Nagamine, T.** (2022, September 18-22). *Acquisition of allophonic variation in second language speech: An acoustic and articulatory study of English laterals by Japanese speakers.*　(Conference presentation). Interspeech2022: The 2022 Conference of the International Speech Communication Association, Songdo ConvensiA, Incheon, South Korea.
+- <a href='https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/main/papers/icphs2023_slides.pdf' target='_blank'><img title='icphs2023_slides' alt='icphs2023_slides' src='https://img.icons8.com/officel/20/null/pdf.png' border="0"/></a> &nbsp; **Nagamine, T.** (2023, August 7-11). *Dynamic tongue movements in L1 Japanese and L2 English liquids.* (Oral presentation). The 20th International Congress of Phonetic Sciences (ICPhS), Prague Congress Centre, Prague, Czech Republic. 
+
+- <a href='https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/main/papers/nagamine_UltrafestX.pdf' target='_blank'><img title='ultrafestx' alt='ultrafestx' src='https://img.icons8.com/officel/20/null/pdf.png' border="0"/></a> &nbsp; **Nagamine, T.** (2022, November 3-4). *Acoustic, perceptual and articulatory properties of second language speech; A case of Japanese speakers’ production of the English /l r/ contrast.* (Oral presentation). Ultrafest X, University of Manchester, Manchester, United Kingdom. 
+
+- **Nagamine, T.** (2022, September 18-22). *Acquisition of allophonic variation in second language speech: An acoustic and articulatory study of English laterals by Japanese speakers.*　(Oral presentation). Interspeech2022: The 2022 Conference of the International Speech Communication Association, Songdo ConvensiA, Incheon, South Korea.
 
 
-- **Nagamine, T.** & Suzuki, S. (2022, April 4-8). *Dynamic phonetic correlates of liquid contrasts in Japanese speakers of English.* (Conference presentation). BAAP 2022: Colloquium of the British Association of Academic Phoneticians, University of York (online), York, United Kingdom.
+- **Nagamine, T.** & Suzuki, S. (2022, April 4-8). *Dynamic phonetic correlates of liquid contrasts in Japanese speakers of English.* (Oral presentation). BAAP 2022: Colloquium of the British Association of Academic Phoneticians, University of York (online), York, United Kingdom.
 
 ### Press coverage
 
@@ -71,15 +75,17 @@ I am involved in projects investigating language variation and change using arti
 
 ### Peer-reviewed conference paper
 
-- <a href='https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/main/papers/Nanceetal_2023.pdf' target='_blank'><img title='icphs2023_nance_etal_2023' alt='icphs2023_nance_etal_2023' src='https://img.icons8.com/officel/20/null/pdf.png' border="0"/></a> &nbsp; Nance, C., Dewhurst, M., Fairclough, L., Forster, P., Kirkham, S., **Nagamine, T.**, Turton, T., & Wang, D. (2023). Acoustic and articulatory characteristics of rhoticity in the North-West of England. In: Radek Skarnitzl & Jan Volín (Eds.), Proceedings of the 20th International Congress of Phonetic Sciences (pp. 3573–3577). Guarant International. [Online Supplementary Materials](https://osf.io/wb9m5/) (Lancashire Tongues)
+- <a href='https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/main/papers/Nanceetal_2023.pdf' target='_blank'><img title='icphs2023_nance_etal_2023' alt='icphs2023_nance_etal_2023' src='https://img.icons8.com/officel/20/null/pdf.png' border="0"/></a> &nbsp; Nance, C., Dewhurst, M., Fairclough, L., Forster, P., Kirkham, S., **Nagamine, T.**, Turton, T., & Wang, D. (2023). Acoustic and articulatory characteristics of rhoticity in the North-West of England. In R. Skarnitzl & J. Volín (Eds.), *Proceedings of the 20th International Congress of Phonetic Sciences* (pp. 3573–3577). Guarant International. [Online Supplementary Materials](https://osf.io/wb9m5/) (Lancashire Tongues)
 
-- <a href='papers/kirkhametal_2023.pdf' target='_blank'><img title='icphs2023_kirkham_etal_2023' alt='icphs2023_kirkham_etal_2023' src='https://img.icons8.com/officel/20/null/pdf.png' border="0"/></a> &nbsp; Kirkham, S., Strycharczuk, P., Gorman, E., **Nagamine, T.**, & Wrench, A. (2023). Co-registration of high-speed ultrasound and electromagnetic articulography for speech production research. In: Radek Skarnitzl & Jan Volín (Eds.), Proceedings of the 20th International Congress of Phonetic Sciences (pp. 918-922). Guarant International. (TARDIS)
+- <a href='papers/kirkhametal_2023.pdf' target='_blank'><img title='icphs2023_kirkham_etal_2023' alt='icphs2023_kirkham_etal_2023' src='https://img.icons8.com/officel/20/null/pdf.png' border="0"/></a> &nbsp; Kirkham, S., Strycharczuk, P., Gorman, E., **Nagamine, T.**, & Wrench, A. (2023). Co-registration of high-speed ultrasound and electromagnetic articulography for speech production research. In R. Skarnitzl & J. Volín (Eds.), *Proceedings of the 20th International Congress of Phonetic Sciences* (pp. 918-922). Guarant International. [Accompanying github repo](https://github.com/samkirkham/ultrafit-ema) (TARDIS)
 
 ### Conference presentation
 
-- Nance, C., Dewhurst, M., Fairclough, L., Forster, P., Kirkham, S., **Nagamine, T.**, Turton, T., & Wang, D. (2023, August 7-11). *Acoustic and articulatory characteristics of rhoticity in the North-West of England*. (Conference presentation). Accepted for the 20th International Congress of Phonetic Sciences (ICPhS), Prague Congress Centre, Prague, Czech Republic. (Lancashire Tongues)
+- Strycharczuk, P., Kirkham, S., Gorman, E., & **Nagamine, T.** (2024, March 25-27). *Dimensions of stability in vowel articulation*. (Oral presentation). Accepted for The Colloquium of the British Association of Academic Phoneticians 2024 (BAAP2024), Cardiff University, Cardiff, United Kingdom. (TARDIS) 
 
-- Kirkham, S., Strycharczuk, P., Gorman, E., **Nagamine, T.**, & Wrench, A. (2023, August 7-11). *Co-registration of high-speed ultrasound and electromagnetic articulography for speech production research*. (Conference presentation). Accepted for the 20th International Congress of Phonetic Sciences (ICPhS), Prague Congress Centre, Prague, Czech Republic. (TARDIS)
+- Nance, C., Dewhurst, M., Fairclough, L., Forster, P., Kirkham, S., **Nagamine, T.**, Turton, T., & Wang, D. (2023, August 7-11). *Acoustic and articulatory characteristics of rhoticity in the North-West of England*. (Oral presentation). The 20th International Congress of Phonetic Sciences (ICPhS), Prague Congress Centre, Prague, Czech Republic. (Lancashire Tongues)
+
+- Kirkham, S., Strycharczuk, P., Gorman, E., **Nagamine, T.**, & Wrench, A. (2023, August 7-11). *Co-registration of high-speed ultrasound and electromagnetic articulography for speech production research*. (Oral presentation). The 20th International Congress of Phonetic Sciences (ICPhS), Prague Congress Centre, Prague, Czech Republic. (TARDIS)
 
 ### Press coverage
 
@@ -99,6 +105,10 @@ knitr::include_graphics("images/dnr_tongue.png")
 ```
 
 I collaborate with [Maho Morimoto](https://sites.google.com/view/mamorimo/) (Sophia University/Japan Society for the Promotional Science) for ultrasound study of Japanese liquids. 
+
+### Conference presentation
+
+- Morimoto, M., & Nagamine, T. (2024, May 13-17). *Spatio-temporal properties of Japanese coronal consonants: An ultrasound study of /d/ and /r/*. (Poster presentation). Accepted for the 13th International Seminar on Speech Production (ISSP), L'Escandille, Autrans, France.  
 
 ### Miscellaneous
 
@@ -126,11 +136,11 @@ I have also been involved in projects on L2 pronunciation teaching. I have worke
 
 - Miura, A., & **Nagamine, T.**. (2023, August 23-25). *Writing as your speaking practice tutor: Anatomizing the practice modality on L2 speaking training*. (Poster presentation) British Association for Applied Linguistics (BAAL) 56th Annual Conference, University of York, York, United Kingdom.
 
-- **Nagamine, T.** & Nishio, Y. (2022, July 31). *Vowels in Asian Englishes Speech: Acoustics, Functional Load, and Implications to the Listening Pedagogy*.  (Conference presentation) The 49th National Conference of the Japanese Association for Asian Englishes, online. 
+- **Nagamine, T.** & Nishio, Y. (2022, July 31). *Vowels in Asian Englishes Speech: Acoustics, Functional Load, and Implications to the Listening Pedagogy*. (Oral presentation) The 49th National Conference of the Japanese Association for Asian Englishes, online. 
 
-- **Nagamine, T.** & Miura, A. (2022, April 20-22). *Write to speak: Effects of timed writing practice on development of the L2 learners' oral performance*.  (Poster presentation) NewSounds 2022: The 10th International Symposium on the Acquisition of Second Language Speech, University of Barcelona, Barcelona, Spain.
+- **Nagamine, T.** & Miura, A. (2022, April 20-22). *Write to speak: Effects of timed writing practice on development of the L2 learners' oral performance*. (Poster presentation) NewSounds 2022: The 10th International Symposium on the Acquisition of Second Language Speech, University of Barcelona, Barcelona, Spain.
 
-- Miura, A., & **Nagamine, T.** (2021, June 18-19). *Using synchronous computer-mediated communication to develop L2 learners’ oral fluency*.　(Poster presentation) Brock University (online), St. Catharines, Ontario, Canada. 
+- Miura, A., & **Nagamine, T.** (2021, June 18-19). *Using synchronous computer-mediated communication to develop L2 learners’ oral fluency*. (Poster presentation) Brock University (online), St. Catharines, Ontario, Canada. 
 
 
 -----
