@@ -31,7 +31,7 @@ In my PhD project, I investigate acoustic and articulatory dynamics in L1 Japane
 
 ### Journal article
 
-- **Nagamine, T.** (2024). Formant dynamics in second language speech: Japanese speakers' production of English liquids. *The Journal of Acoustical Society of America, 155*(1), 479-495. [https://doi.org/10.1121/10.0024351](https://doi.org/10.1121/10.0024351) [[pdf]](https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/main/papers/nagamine_2024_JASA.pdf) [[osf]](https://osf.io/2phx5/)
+- **Nagamine, T.** (2024). Formant dynamics in second language speech: Japanese speakers' production of English liquids. *The Journal of Acoustical Society of America, 155*(1), 479-495. [https://doi.org/10.1121/10.0024351](https://doi.org/10.1121/10.0024351) [[pdf]](https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/main/papers/nagamine_2024_jasa.pdf) [[osf]](https://osf.io/2phx5/)
 (&copy; 2024 Author(s). This article is distributed under a Creative Commons Attribution (CC BY) License.)
 
 ### Conference proceedings paper
@@ -42,7 +42,7 @@ In my PhD project, I investigate acoustic and articulatory dynamics in L1 Japane
 
 ### Conference presentation
 
-- **Nagamine, T.** (2024, May 13-17). *Acquisition of articulatory dynamics in second language speech: Japanese speakers’ production of English and Japanese liquids.* (Poster presentation). The 13th International Seminar on Speech Production (ISSP), L'Escandille, Autrans, France. [[poster]](https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/main/papers/poster094.pdf) [[abstract]]()
+- **Nagamine, T.** (2024, May 13-17). *Acquisition of articulatory dynamics in second language speech: Japanese speakers’ production of English and Japanese liquids.* (Poster presentation). The 13th International Seminar on Speech Production (ISSP), L'Escandille, Autrans, France. [[poster]](https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/main/papers/nagamine_2024_issp_poster.pdf) [[abstract]](https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/main/papers/nagamine_2024_issp_abstrat.pdf)
 
 - **Nagamine, T.** (2024, March 25-27). *Using Functional Principal Component Analysis for articulatory dynamics of English liquids: L1 Japanese speakers' production of English /l ɹ/ and Japanese /ɾ/.* (Oral presentation). The Colloquium of the British Association of Academic Phoneticians 2024 (BAAP2024), Cardiff University, Cardiff, United Kingdom. [[abstract]](https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/main/papers/nagamine_2024_baap2024_abstract.pdf)
 
@@ -109,7 +109,7 @@ I collaborate with [Maho Morimoto](https://sites.google.com/view/mamorimo/) (Chu
 
 ### Conference proceedings paper
 
-- Morimoto, M., & **Nagamine, T**. (2024). *Spatio-temporal properties of Japanese coronal consonants: An ultrasound study of /d/ and /r/*. Proceedings of the 13th International Seminar on Speech Production (pp. 153-156). \url{https://issp24.sciencesconf.org/data/pages/proceedings_long_papers.pdf}} [[pdf]](https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/main/papers/morimoto_nagamine_2024_issp.pdf)
+- Morimoto, M., & **Nagamine, T**. (2024). *Spatio-temporal properties of Japanese coronal consonants: An ultrasound study of /d/ and /r/*. Proceedings of the 13th International Seminar on Speech Production (pp. 153-156). \url{https://issp24.sciencesconf.org/data/pages/proceedings_long_papers.pdf} [[pdf]](https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/main/papers/morimoto_nagamine_2024_issp.pdf)
 
 ### Conference presentation
 
