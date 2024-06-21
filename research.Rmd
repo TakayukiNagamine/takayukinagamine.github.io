@@ -58,6 +58,8 @@ In my PhD project, I investigate acoustic and articulatory dynamics in L1 Japane
 
 University press articles (in Japanese) reporting activities with students using ultrasound.
 
+- 14 June 2024 at [Kobe Gakuin University](https://www.kobegakuin.ac.jp/education/faculty_global/news/1cd4b5e323bfdfa323ce.html), Hyogo, Japan.
+
 - 31 October 2022 at [Meijo University](https://www.meijo-u.ac.jp/news/detail_28009.html), Aichi, Japan.
 
 - 18 October 2022 at [Kobe Gakuin University](https://www.kobegakuin.ac.jp/education/faculty_global/news/988939cb1a72698c58a1.html), Hyogo, Japan.
@@ -109,7 +111,7 @@ I collaborate with [Maho Morimoto](https://sites.google.com/view/mamorimo/) (Chu
 
 ### Conference proceedings paper
 
-- Morimoto, M., & **Nagamine, T**. (2024). *Spatio-temporal properties of Japanese coronal consonants: An ultrasound study of /d/ and /r/*. Proceedings of the 13th International Seminar on Speech Production (pp. 153-156). \url{https://issp24.sciencesconf.org/data/pages/proceedings_long_papers.pdf} [[pdf]](https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/main/papers/morimoto_nagamine_2024_issp.pdf)
+- Morimoto, M., & **Nagamine, T**. (2024). *Spatio-temporal properties of Japanese coronal consonants: An ultrasound study of /d/ and /r/*. Proceedings of the 13th International Seminar on Speech Production (pp. 141-144). \url{https://issp24.sciencesconf.org/data/pages/proceedings_long_papers.pdf} [[pdf]](https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/main/papers/morimoto_nagamine_2024_issp.pdf)
 
 ### Conference presentation
 
