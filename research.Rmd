@@ -111,7 +111,7 @@ I collaborate with [Maho Morimoto](https://sites.google.com/view/mamorimo/) (Chu
 
 ### Conference proceedings paper
 
-- Morimoto, M., & **Nagamine, T**. (2024). *Spatio-temporal properties of Japanese coronal consonants: An ultrasound study of /d/ and /r/*. Proceedings of the 13th International Seminar on Speech Production (pp. 141-144). \url{https://issp24.sciencesconf.org/data/pages/proceedings_long_papers.pdf} [[pdf]](https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/main/papers/morimoto_nagamine_2024_issp.pdf)
+- Morimoto, M., & **Nagamine, T**. (2024). Spatio-temporal properties of Japanese coronal consonants: An ultrasound study of /d/ and /r/. In C. Fougeron & P. Perrier (Eds). *Proceedings of the 13th International Seminar on Speech Production (ISSP)* (pp. 141-144). \url{https://issp24.sciencesconf.org/data/pages/proceedings_long_papers.pdf} [[pdf]](https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/main/papers/morimoto_nagamine_2024_issp.pdf)
 
 ### Conference presentation
 
