@@ -31,18 +31,17 @@ In my PhD project, I investigate acoustic and articulatory dynamics in L1 Japane
 
 ### Journal article
 
-- **Nagamine, T.** (2024). Formant dynamics in second language speech: Japanese speakers' production of English liquids. *The Journal of Acoustical Society of America, 155*(1), 479-495. [https://doi.org/10.1121/10.0024351](https://doi.org/10.1121/10.0024351) [[pdf]](https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/main/papers/nagamine_2024_jasa.pdf) [[osf]](https://osf.io/2phx5/)
-(&copy; 2024 Author(s). This article is distributed under a Creative Commons Attribution (CC BY) License.)
+- **Nagamine, T.** (2024). Formant dynamics in second language speech: Japanese speakers' production of English liquids. *The Journal of Acoustical Society of America, 155*(1), 479-495. [https://doi.org/10.1121/10.0024351](https://doi.org/10.1121/10.0024351) [[pdf]](https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/main/papers/nagamine_2024_jasa.pdf) [[osf]](https://osf.io/2phx5/) <br> (&copy; 2024 Author(s). This article is distributed under a Creative Commons Attribution (CC BY) License.)
 
 ### Conference proceedings paper
 
-- **Nagamine, T.** (2023). Dynamic tongue movements in L1 Japanese and L2 English liquids. In R. Skarnitzl & J. Volín (Eds.), *Proceedings of the 20th International Congress of Phonetic Sciences* (pp. 2442–2446). Guarant International. [[pdf]](https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/main/papers/nagamine_2023_icphs.pdf) [[osf]](https://osf.io/29tac/)
+- **Nagamine, T.** (2023). Dynamic tongue movements in L1 Japanese and L2 English liquids. In R. Skarnitzl & J. Volín (Eds.), *Proceedings of the 20th International Congress of Phonetic Sciences* (pp. 2442–2446). Guarant International. [https://guarant.cz/icphs2023/198.pdf](https://guarant.cz/icphs2023/198.pdf)  [[pdf]](https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/main/papers/nagamine_2023_icphs.pdf) [[osf]](https://osf.io/29tac/)
 
-- **Nagamine, T.** (2022). Acquisition of allophonic variation in second language speech: An acoustic and articulatory study of English laterals by Japanese speakers. *Proc. Interspeech 2022* (pp. 644-648). https://doi.org/10.21437/Interspeech.2022-11020 [[pdf]](https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/main/papers/nagamine_2022_interspeech.pdf)
+- **Nagamine, T.** (2022). Acquisition of allophonic variation in second language speech: An acoustic and articulatory study of English laterals by Japanese speakers. *Proceedings of Interspeech 2022* (pp. 644-648). https://doi.org/10.21437/Interspeech.2022-11020 [[pdf]](https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/main/papers/nagamine_2022_interspeech.pdf)
 
 ### Conference presentation
 
-- **Nagamine, T.** (2024, May 13-17). *Acquisition of articulatory dynamics in second language speech: Japanese speakers’ production of English and Japanese liquids.* (Poster presentation). The 13th International Seminar on Speech Production (ISSP), L'Escandille, Autrans, France. [[poster]](https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/main/papers/nagamine_2024_issp_poster.pdf) [[abstract]](https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/main/papers/nagamine_2024_issp_abstrat.pdf)
+- **Nagamine, T.** (2024, May 13-17). *Acquisition of articulatory dynamics in second language speech: Japanese speakers’ production of English and Japanese liquids.* (Poster presentation). The 13th International Seminar on Speech Production (ISSP), L'Escandille, Autrans, France. [[poster]](https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/main/papers/nagamine_2024_issp_poster.pdf) [[abstract]](https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/main/papers/nagamine_2024_issp_abstract.pdf)
 
 - **Nagamine, T.** (2024, March 25-27). *Using Functional Principal Component Analysis for articulatory dynamics of English liquids: L1 Japanese speakers' production of English /l ɹ/ and Japanese /ɾ/.* (Oral presentation). The Colloquium of the British Association of Academic Phoneticians 2024 (BAAP2024), Cardiff University, Cardiff, United Kingdom. [[abstract]](https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/main/papers/nagamine_2024_baap2024_abstract.pdf)
 
@@ -76,13 +75,15 @@ I am involved in projects investigating language variation and change using arti
 
 ### Conference proceedings paper
 
-- Nance, C., Dewhurst, M., Fairclough, L., Forster, P., Kirkham, S., **Nagamine, T.**, Turton, T., & Wang, D. (2023). Acoustic and articulatory characteristics of rhoticity in the North-West of England. In R. Skarnitzl & J. Volín (Eds.), *Proceedings of the 20th International Congress of Phonetic Sciences* (pp. 3573–3577). Guarant International. [[pdf]](https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/main/papers/nance_et_al_2023_icphs.pdf) [[osf]](https://osf.io/wb9m5/) (Lancashire Tongues)
+- Nance, C., Dewhurst, M., Fairclough, L., Forster, P., Kirkham, S., **Nagamine, T.**, Turton, T., & Wang, D. (2023). Acoustic and articulatory characteristics of rhoticity in the North-West of England. In R. Skarnitzl & J. Volín (Eds.), *Proceedings of the 20th International Congress of Phonetic Sciences* (pp. 3573–3577). Guarant International. [https://guarant.cz/icphs2023/217.pdf](https://guarant.cz/icphs2023/217.pdf)  [[pdf]](https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/main/papers/nance_et_al_2023_icphs.pdf) [[osf]](https://osf.io/wb9m5/) (Lancashire Tongues)
 
-- Kirkham, S., Strycharczuk, P., Gorman, E., **Nagamine, T.**, & Wrench, A. (2023). Co-registration of high-speed ultrasound and electromagnetic articulography for speech production research. In R. Skarnitzl & J. Volín (Eds.), *Proceedings of the 20th International Congress of Phonetic Sciences* (pp. 918-922). Guarant International. [[pdf]](https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/main/papers/kirkham_et_al_2023_icphs.pdf) [[github]](https://github.com/samkirkham/ultrafit-ema) (TARDIS)
+- Kirkham, S., Strycharczuk, P., Gorman, E., **Nagamine, T.**, & Wrench, A. (2023). Co-registration of high-speed ultrasound and electromagnetic articulography for speech production research. In R. Skarnitzl & J. Volín (Eds.), *Proceedings of the 20th International Congress of Phonetic Sciences* (pp. 918-922). Guarant International. [https://guarant.cz/icphs2023/145.pdf](https://guarant.cz/icphs2023/145.pdf)  [[pdf]](https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/main/papers/kirkham_et_al_2023_icphs.pdf) [[github]](https://github.com/samkirkham/ultrafit-ema) (TARDIS)
 
 ### Conference presentation
 
-- Strycharczuk, P., Kirkham, S., Gorman, E., **Nagamine, T.**, & Leeman, A. (2024, June 27-29). Gender-specific behaviour in vowel articulation. (Oral presentation). The 19th Conference on Laboratory Phonology: LabPhon 19, HIPCS, Hanyang University, Seoul, South Korea. (TARDIS)
+- Nance, C., Dewhurst, M., Fairclough, L., Forster, P., Kirkham, S., Lo, J., McMonagle, J., **Nagamine, T.**, Parkman, S., Rabani, H., Turton, D., & Wang. D. (2024, 27-28 June). *Residual rhoticity in East Lancashire English: variation in Blackburn and Burnley.* (Oral presentation). The 10th Northern Englishes Workshop (NEW10), University of Chester, Chester, United Kingdom. (Lancashire Tongues)
+
+- Strycharczuk, P., Kirkham, S., Gorman, E., **Nagamine, T.**, & Leeman, A. (2024, June 27-29). *Gender-specific behaviour in vowel articulation.* (Oral presentation). The 19th Conference on Laboratory Phonology: LabPhon 19, HIPCS, Hanyang University, Seoul, South Korea. (TARDIS)
 
 - Strycharczuk, P., Kirkham, S., Gorman, E., & **Nagamine, T.** (2024, March 25-27). *Dimensions of stability in vowel articulation*. (Oral presentation). Accepted for The Colloquium of the British Association of Academic Phoneticians 2024 (BAAP2024), Cardiff University, Cardiff, United Kingdom. (TARDIS) 
 
@@ -134,9 +135,9 @@ I have also been involved in projects on L2 pronunciation teaching. I have worke
 
 ### Conference proceedings paper
 
-- Miura, A., & **Nagamine, T.** (2022). Using synchronous computer-mediated communication to develop L2 learners’ oral fluency. In J. Levis & A. Guskaroska (eds.), *Proceedings of the 12th Pronunciation in Second Language Learning and Teaching Conference*, held June 2021 virtually at Brock University, St. Catharines, ON. [https://doi.org/10.31274/psllt.13347](https://doi.org/10.31274/psllt.13347) [[pdf]](https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/main/papers/miura_nagamine_2021_psllt.pdf)
+- Miura, A., & **Nagamine, T.** (2022). Using synchronous computer-mediated communication to develop L2 learners’ oral fluency. In J. Levis & A. Guskaroska (eds.), *Proceedings of the 12th Pronunciation in Second Language Learning and Teaching Conference*. [https://doi.org/10.31274/psllt.13347](https://doi.org/10.31274/psllt.13347) [[pdf]](https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/main/papers/miura_nagamine_2021_psllt.pdf)
 
-- **Nagamine, T.** (2020). Intelligibility of varieties of English and listeners’ language learning backgrounds. In O. Kang, S. Staples, K. Yaw, & K. Hirschi (Eds.), *Proceedings of the 11th Pronunciation in Second Language Learning and Teaching conference*, Northern Arizona University, September 2019 (pp. 261–269). Ames, IA: Iowa State University. [https://iastatedigitalpress.com/psllt/article/id/15430/](https://iastatedigitalpress.com/psllt/article/id/15430/) [[pdf]](https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/main/papers/nagamine_2019_psllt.pdf)
+- **Nagamine, T.** (2020). Intelligibility of varieties of English and listeners’ language learning backgrounds. In O. Kang, S. Staples, K. Yaw, & K. Hirschi (Eds.), *Proceedings of the 11th Pronunciation in Second Language Learning and Teaching conference* (pp. 261–269). [https://iastatedigitalpress.com/psllt/article/id/15430/](https://iastatedigitalpress.com/psllt/article/id/15430/) [[pdf]](https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/main/papers/nagamine_2019_psllt.pdf)
 
 
 ### Conference presentation
