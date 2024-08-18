@@ -25,7 +25,10 @@ knitr::include_graphics("images/profile2.png")
 
 <br>
 <br>
-I am a final year PhD candidate at Lancaster University, UK. My research interest lies in bilingual/second language (L2) speech production, informed by experimental methods in articulatory/acoustic phonetics and laboratory phonology. In my PhD project, I investigate acoustic/articulatory dynamics of L2 English liquids produced by L1 Japanese speakers using ultrasound tongue imaging and quantitative data analysis methods. 
+I am Research Assistant (to be a Postdoctoral Research Fellow) in [Speech, Hearing and Phonetic Sciences (SHaPS)](https://www.ucl.ac.uk/pals/research/speech-hearing-and-phonetic-sciences) at University College London for the Leverhulme-funded project **"Speech production processes in resolving articulatory variation"** led by [Professor Patti Adank](https://profiles.ucl.ac.uk/19877) (UCL), [Dr Chris Carignan](https://sites.google.com/view/christopher-carignan/home) (UCL) and [Professor Adamantios Gafos](https://www.ling.uni-potsdam.de/~gafos/) (Universität Potsdam, Germany). My research interest lies in bilingual/second language (L2) speech production, informed by experimental methods in articulatory/acoustic phonetics and laboratory phonology, and I am currently learning how these articulatory methods could augment psycholinguistic and neurolinguistics research for the project. 
+
+
+I am also completing my PhD research in [the Department of Linguistics and English Language](https://www.lancaster.ac.uk/linguistics/) at Lancaster University. In my PhD project, I investigate acoustic/articulatory dynamics of L2 English liquids produced by L1 Japanese speakers using ultrasound tongue imaging and quantitative data analysis methods. 
 
 
 My PhD research has been funded by [Japan Student Services Organisation (JASSO)](https://www.jasso.go.jp/ryugaku/scholarship_a/daigakuin/index.html) and [The Murata Science Foundation](https://corporate.murata.com/ja-jp/group/zaidan).
@@ -76,17 +79,17 @@ Also follow me on:&nbsp;&nbsp;<a href='https://researchmap.jp/takayukinagamine' 
 ### Education
 <img width="35" height="35" src="https://img.icons8.com/glyph-neue/40/null/graduation-cap.png"/> &nbsp; **2020 - Present** &nbsp; **PhD Candidate in Linguistics, [Lancaster University](https://www.lancaster.ac.uk/), UK.**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Supervisors: [Claire Nance](https://clairenance.github.io/) and [Sam Kirkham](https://samkirkham.github.io/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Supervisors: [Professor Claire Nance](https://clairenance.github.io/) and [Dr Sam Kirkham](https://samkirkham.github.io/)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;See also: [Lancaster University Phonetics Lab](https://phoneticslab.github.io/)
 
 <img width="35" height="35" src="https://img.icons8.com/glyph-neue/40/null/graduation-cap.png"/> &nbsp; **2015 - 2016** &nbsp; **Master of Arts in Linguistics (with Merit), [University College London](https://www.ucl.ac.uk/), UK.**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dissertation supervisor: [Bronwen Evans](https://profiles.ucl.ac.uk/8727-bronwen-evans)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dissertation supervisor: [Dr Bronwen Evans](https://profiles.ucl.ac.uk/8727-bronwen-evans)
 
 <img width="35" height="35" src="https://img.icons8.com/glyph-neue/40/null/graduation-cap.png"/> &nbsp; **2010 - 2015** &nbsp; **Bachelor of Arts in Education Studies, [Aichi University of Education](https://www.aichi-edu.ac.jp/), Japan.**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thesis supervisor: [Yasuhiro Fujiwara](https://www.meijo-u.ac.jp/sp/foreign/educator/fujiwara/) (Now at Meijo University, Japan)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thesis supervisor: [Professor Yasuhiro Fujiwara](https://www.meijo-u.ac.jp/sp/foreign/educator/fujiwara/) (Now at Meijo University, Japan)
 
 <br>
 
