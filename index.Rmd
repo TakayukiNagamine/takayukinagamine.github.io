@@ -18,20 +18,19 @@ body, td {
 
 
 
-```{r echo = FALSE, out.width = "35%", out.extra='style="float:left; padding:30px"'}
+```{r echo = FALSE, out.width = "40%", out.extra='style="float:left; padding:50px"'}
 knitr::include_graphics("images/profile2.png")
 ```
 
 
 <br>
-<br>
-I am Research Assistant (to be a Postdoctoral Research Fellow) in [Speech, Hearing and Phonetic Sciences (SHaPS)](https://www.ucl.ac.uk/pals/research/speech-hearing-and-phonetic-sciences) at University College London for the Leverhulme-funded project **"Speech production processes in resolving articulatory variation"** led by [Professor Patti Adank](https://profiles.ucl.ac.uk/19877) (UCL), [Dr Chris Carignan](https://sites.google.com/view/christopher-carignan/home) (UCL) and [Professor Adamantios Gafos](https://www.ling.uni-potsdam.de/~gafos/) (Universität Potsdam, Germany). My research interest lies in bilingual/second language (L2) speech production, informed by experimental methods in articulatory/acoustic phonetics and laboratory phonology, and I am currently learning how these articulatory methods could augment psycholinguistic and neurolinguistics research for the project. 
+I am Research Assistant (to be a Postdoctoral Research Fellow) in [Speech, Hearing and Phonetic Sciences (SHaPS), University College London](https://www.ucl.ac.uk/pals/research/speech-hearing-and-phonetic-sciences) for the Leverhulme-funded project **"Speech production processes in resolving articulatory variation"**.
 
 
-I am also completing my PhD research in [the Department of Linguistics and English Language](https://www.lancaster.ac.uk/linguistics/) at Lancaster University. In my PhD project, I investigate acoustic/articulatory dynamics of L2 English liquids produced by L1 Japanese speakers using ultrasound tongue imaging and quantitative data analysis methods. 
+<!-- My research interest lies in bilingual/second language (L2) speech production, informed by experimental methods in articulatory/acoustic phonetics and laboratory phonology, and I am currently learning how these articulatory methods could augment psycholinguistic and neurolinguistics research for the project.  -->
 
 
-My PhD research has been funded by [Japan Student Services Organisation (JASSO)](https://www.jasso.go.jp/ryugaku/scholarship_a/daigakuin/index.html) and [The Murata Science Foundation](https://corporate.murata.com/ja-jp/group/zaidan).
+I am also completing my PhD research in [the Department of Linguistics and English Language, Lancaster University ](https://www.lancaster.ac.uk/linguistics/) (funded by [Japan Student Services Organisation (JASSO)](https://www.jasso.go.jp/ryugaku/scholarship_a/daigakuin/index.html) and [The Murata Science Foundation](https://corporate.murata.com/ja-jp/group/zaidan)). I investigate acoustic/articulatory dynamics of L2 English liquids produced by L1 Japanese speakers using ultrasound tongue imaging and quantitative data analysis methods. 
 
 
 My CV can be downloaded [here](https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/main/papers/Takayuki_Nagamine_CV.pdf) (last updated: 28 May 2024).
@@ -63,11 +62,18 @@ Also follow me on:&nbsp;&nbsp;<a href='https://researchmap.jp/takayukinagamine' 
 
 ### Current projects
 
+<img width="40" height="40" src="https://img.icons8.com/?size=100&id=uxYsjiIaIErJ&format=png&color=000000" alt="cosine--v1"/> &nbsp; **Speech production processes in resolving articulatory variation** (Postdoc project, 2024--present)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PIs: [Professor Patti Adank](https://profiles.ucl.ac.uk/19877) (UCL), [Dr Chris Carignan](https://sites.google.com/view/christopher-carignan/home) (UCL) and [Professor Adamantios Gafos](https://www.ling.uni-potsdam.de/~gafos/) (Universität Potsdam). 
+
 <img width="35" height="35" src="https://img.icons8.com/ios/40/cosine--v1.png" alt="cosine--v1"/> &nbsp; **Dynamics in L2 speech: L1 Japanese speakers' production of English liquids** (PhD project, 2020--present)
 
-<img width="35" height="35" src="https://img.icons8.com/fluency-systems-filled/48/tudor-rose.png" alt="tudor-rose"/> &nbsp; **[Lancashire Tongues: Ultrasound study of dialects in Lancashire](https://www.research.lancs.ac.uk/portal/en/upmprojects/lancashire-tongues(dcb56b68-d20e-4acd-92b0-0ffa6b23c07c).html)** (2022--present)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Conveners: [Claire Nance](https://clairenance.github.io/), [Sam Kirkham](https://samkirkham.github.io/) and [Danielle Turton](https://danielleturton.rbind.io/) (Lancaster University)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Supervisors: [Professor Claire Nance](https://clairenance.github.io/) and [Dr Sam Kirkham](https://samkirkham.github.io/) (Lancaster University)
+
+<!-- <img width="35" height="35" src="https://img.icons8.com/fluency-systems-filled/48/tudor-rose.png" alt="tudor-rose"/> &nbsp; **[Lancashire Tongues: Ultrasound study of dialects in Lancashire](https://www.research.lancs.ac.uk/portal/en/upmprojects/lancashire-tongues(dcb56b68-d20e-4acd-92b0-0ffa6b23c07c).html)** (2022--present) -->
+
+<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Conveners: [Claire Nance](https://clairenance.github.io/), [Sam Kirkham](https://samkirkham.github.io/) and [Danielle Turton](https://danielleturton.rbind.io/) (Lancaster University) -->
 
 <img width="35" height="35" src="https://img.icons8.com/ios/50/hiragana-ra.png" alt="hiragana-ra"/> &nbsp; **U-DNR: Articulatory characterisation of Japanese liquids using ultrasound** (2023--present)
 
