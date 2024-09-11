@@ -75,9 +75,9 @@ I am involved in projects investigating language variation and change using arti
 
 ### Peer-reviewed Journal article
 
-- Nance, C., Dewhurst, M., Fairclough, L., Forster, P., Kirkham, S., Lo, J., McMonagle, J., **Nagamine, T.**, Parkman, S., Rabani, H., Siem, A. B., Turton D., & Wang, S. (Forthcoming.) Articulatory phonetics in the Market: Combining public engagement with ultrasound data collection. *Linguistics Vanguard*.
+- Nance, C., Dewhurst, M., Fairclough, L., Forster, P., Kirkham, S., Lo, J., McMonagle, J., **Nagamine, T.**, Parkman, S., Rabani, H., Siem, A. B., Turton D., & Wang, S. (Forthcoming.) Articulatory phonetics in the Market: Combining public engagement with ultrasound data collection. *Linguistics Vanguard*. (Lancashire Tongues)
 
-- Strycharczuk, P., Kirkham, S., Gorman, E., & **Nagamine, T**. (Forthcoming). Towards a dynamical model of English vowels: Evidence from diphthongisation. *Journal of Phonetics*. [pre-print](https://arxiv.org/abs/2409.00275) [code](https://osf.io/gub32/)
+- Strycharczuk, P., Kirkham, S., Gorman, E., & **Nagamine, T**. (Forthcoming). Towards a dynamical model of English vowels: Evidence from diphthongisation. *Journal of Phonetics*. [[pre-print]](https://arxiv.org/abs/2409.00275) [[code]](https://osf.io/gub32/) (TARDIS)
 
 
 ### Conference proceedings paper
