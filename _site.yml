@@ -14,7 +14,7 @@ navbar:
     - text: "Researchmap"
       href: researchmap.html
     - icon: fa-envelope
-      href: mailto:t.nagamine@lancaster.ac.uk
+      href: mailto:takayuki.nagamine@ucl.ac.uk
 output:
   html_document:
     theme: simplex
