@@ -29,7 +29,7 @@ knitr::include_graphics("images/tongue.png")
 
 In my PhD project, I investigate acoustic and articulatory dynamics in L1 Japanese speakers' production of English liquids. 
 
-### Journal article
+### Peer-reviewed Journal article
 
 - **Nagamine, T.** (2024). Formant dynamics in second language speech: Japanese speakers' production of English liquids. *The Journal of Acoustical Society of America, 155*(1), 479-495. [https://doi.org/10.1121/10.0024351](https://doi.org/10.1121/10.0024351) [[pdf]](https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/main/papers/nagamine_2024_jasa.pdf) [[osf]](https://osf.io/2phx5/) <br> (&copy; 2024 Author(s). This article is distributed under a Creative Commons Attribution (CC BY) License.)
 
@@ -72,6 +72,13 @@ knitr::include_graphics("images/ultrasound.jpeg")
 ```
 
 I am involved in projects investigating language variation and change using articulatory methods. This includes the [Lancashire Tongues: Ultrasound study of dialects in Lancashire](https://www.research.lancs.ac.uk/portal/en/upmprojects/lancashire-tongues(dcb56b68-d20e-4acd-92b0-0ffa6b23c07c).html) project and the [Targets and Dynamics in Speech (TARDIS)](https://www.research.lancs.ac.uk/portal/en/upmprojects/targets-and-dynamics-in-speech--tardis(0af620e8-b3d8-4a76-93c1-f316a2a1dc52).html) project.
+
+### Peer-reviewed Journal article
+
+- Nance, C., Dewhurst, M., Fairclough, L., Forster, P., Kirkham, S., Lo, J., McMonagle, J., **Nagamine, T.**, Parkman, S., Rabani, H., Siem, A. B., Turton D., & Wang, S. (Forthcoming.) Articulatory phonetics in the Market: Combining public engagement with ultrasound data collection. *Linguistics Vanguard*.
+
+- Strycharczuk, P., Kirkham, S., Gorman, E., & **Nagamine, T**. (Forthcoming). Towards a dynamical model of English vowels: Evidence from diphthongisation. *Journal of Phonetics*. [pre-print](https://arxiv.org/abs/2409.00275) [code](https://osf.io/gub32/)
+
 
 ### Conference proceedings paper
 
