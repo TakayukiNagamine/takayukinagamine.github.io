@@ -30,7 +30,7 @@ I am Research Assistant (to be a Postdoctoral Research Fellow) in [Speech, Heari
 <!-- My research interest lies in bilingual/second language (L2) speech production, informed by experimental methods in articulatory/acoustic phonetics and laboratory phonology, and I am currently learning how these articulatory methods could augment psycholinguistic and neurolinguistics research for the project.  -->
 
 
-I have obtained a PhD degree in Linguistics from [the Department of Linguistics and English Language, Lancaster University ](https://www.lancaster.ac.uk/linguistics/). I investigated acoustic/articulatory dynamics of L2 English liquids produced by L1 Japanese speakers using ultrasound tongue imaging and quantitative data analysis methods. My PhD project was funded by [Japan Student Services Organisation (JASSO)](https://www.jasso.go.jp/ryugaku/scholarship_a/daigakuin/index.html) and [The Murata Science Foundation](https://corporate.murata.com/ja-jp/group/zaidan). 
+I have completed a PhD research at [the Department of Linguistics and English Language, Lancaster University ](https://www.lancaster.ac.uk/linguistics/). I investigated acoustic/articulatory dynamics of L2 English liquids produced by L1 Japanese speakers using ultrasound tongue imaging and quantitative data analysis methods. My PhD project was funded by [Japan Student Services Organisation (JASSO)](https://www.jasso.go.jp/ryugaku/scholarship_a/daigakuin/index.html) and [The Murata Science Foundation](https://corporate.murata.com/ja-jp/group/zaidan). 
 
 
 My CV can be downloaded [here](https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/main/papers/Takayuki_Nagamine_CV.pdf) (last updated: 19 November 2024).
