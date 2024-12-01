@@ -24,23 +24,22 @@ knitr::include_graphics("images/profile2.png")
 
 
 <br>
-I am Research Assistant (to be a Postdoctoral Research Fellow) in [Speech, Hearing and Phonetic Sciences (SHaPS), University College London](https://www.ucl.ac.uk/pals/research/speech-hearing-and-phonetic-sciences) for the Leverhulme-funded project **"Speech production processes in resolving articulatory variation"**.
-
-
-<!-- My research interest lies in bilingual/second language (L2) speech production, informed by experimental methods in articulatory/acoustic phonetics and laboratory phonology, and I am currently learning how these articulatory methods could augment psycholinguistic and neurolinguistics research for the project.  -->
+I am a Postdoctoral Research Fellow in [Speech, Hearing and Phonetic Sciences (SHaPS), University College London](https://www.ucl.ac.uk/pals/research/speech-hearing-and-phonetic-sciences) for the Leverhulme-funded project **"Speech production processes in resolving articulatory variation"**.
 
 
 I have completed a PhD research at [the Department of Linguistics and English Language, Lancaster University ](https://www.lancaster.ac.uk/linguistics/). I investigated acoustic/articulatory dynamics of L2 English liquids produced by L1 Japanese speakers using ultrasound tongue imaging and quantitative data analysis methods. My PhD project was funded by [Japan Student Services Organisation (JASSO)](https://www.jasso.go.jp/ryugaku/scholarship_a/daigakuin/index.html) and [The Murata Science Foundation](https://corporate.murata.com/ja-jp/group/zaidan). 
 
 
-My CV can be downloaded [here](https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/main/papers/Takayuki_Nagamine_CV.pdf) (last updated: 19 November 2024).
+My CV can be downloaded [here](https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/main/papers/Takayuki_Nagamine_CV.pdf) (last updated: 01 November 2024).
 
 Also follow me on:&nbsp;&nbsp;<a href='https://researchmap.jp/takayukinagamine' target='_blank'><img title='researchmap' alt='researchmap' src='https://researchmap.jp/outline/img/researchmap130.gif' border="0"/></a> 
-<a href='https://twitter.com/tn75146488' target='_blank'><img title='twitter' alt='twitter' src='https://img.icons8.com/fluency/48/null/twitter-squared.png' /></a> 
+<a href='https://bsky.app/profile/takayukinagamine.bsky.social' target='_blank'><img title='twitter' alt='twitter' src='https://img.icons8.com/?size=50&id=Pmova64LnA5E&format=png&color=228BE6' /></a> 
 <a href='https://github.com/TakayukiNagamine' target='_blank'><img title='github' alt='github' src='https://img.icons8.com/ios-filled/40/null/github.png' /></a> 
 <a href="https://orcid.org/0000-0002-0936-4738">
 <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="30" height="30" />
 </a>
+
+<!-- href='https://twitter.com/tn75146488' target='_blank'><img title='twitter' alt='twitter' src='https://img.icons8.com/fluency/48/null/twitter-squared.png' /> -->
 
 <!-- <a href='https://www.researchgate.net/profile/Takayuki_Nagamine' target='_blank'><img title='researchgate' alt='researchgate' src='https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/null/external-researchgate-a-social-networking-site-for-scientists-and-researchers-to-share-papers-logo-color-tal-revivo.png' /></a>  -->
 
@@ -84,7 +83,7 @@ Also follow me on:&nbsp;&nbsp;<a href='https://researchmap.jp/takayukinagamine' 
 <br>
 
 ### Education
-<img width="35" height="35" src="https://img.icons8.com/glyph-neue/40/null/graduation-cap.png"/> &nbsp; **2020 - 2024** &nbsp; **PhD Candidate in Linguistics, [Lancaster University](https://www.lancaster.ac.uk/), UK.**
+<img width="35" height="35" src="https://img.icons8.com/glyph-neue/40/null/graduation-cap.png"/> &nbsp; **2020 - 2024** &nbsp; **PhD in Linguistics, [Lancaster University](https://www.lancaster.ac.uk/), UK.**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Supervisors: [Professor Claire Nance](https://clairenance.github.io/) and [Dr Sam Kirkham](https://samkirkham.github.io/)
 
