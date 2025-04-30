@@ -24,8 +24,7 @@ body, td {
 
 - **Statistics**
 
-  - 2-4 April 2025: Analysing contours in phonetic data: Dynamic analysis hands-on workshop using R. [[url]](https://site.unibo.it/akid/
-en/agenda/analysing-contours-in-phonetic-data-dynamic-analysis-hands-on-workshop-using-r)
+  - 2-4 April 2025: Analysing contours in phonetic data: Dynamic analysis hands-on workshop using R. [[url]](https://site.unibo.it/akid/en/agenda/analysing-contours-in-phonetic-data-dynamic-analysis-hands-on-workshop-using-r)
 
       Hosted by Prof. Chiara Meluzzi and Dr Yuka Naito (University of Milan, the AKiD project - PRIN 2022 PNRR). 
 

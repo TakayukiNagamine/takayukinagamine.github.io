@@ -26,7 +26,7 @@ Please also see my [CV](https://github.com/TakayukiNagamine/takayukinagamine.git
 the Phonetic Society of Japan, 29*(1), 58-71. [[doi]](https://doi.org/10.24467/onseikenkyu.29.1_58) [[pdf]](https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/main/papers/nagamine_2025_jpsj.pdf) [[osf]](https://osf.io/3sdhf/)
 
 Strycharczuk, P., Kirkham, S., Gorman, E., & **Nagamine, T**. (2025). Dimensionality reduction in lingual articulation of vowels.
-*Language and Speech*, Online First, 1-33. [[doi]](https://doi.org/10.1177/00238309251320581) [[pdf]](https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/main/papers/strycharczuk_et_al_2025_language_and_speech)
+*Language and Speech*, Online First, 1-33. [[doi]](https://doi.org/10.1177/00238309251320581) [[pdf]](https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/main/papers/strycharczuk_et_al_2025_language_and_speech.pdf)
 
 
 ### 2024
