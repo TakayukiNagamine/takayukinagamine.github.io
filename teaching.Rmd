@@ -18,13 +18,29 @@ body, td {
 
 <br>
 
------
+## Invited Workshops
 
-## **Phonetics/Phonology**
+<br>
 
-```{r echo = FALSE, out.width = "20%", out.extra='style="float:right; padding:10px"'}
-# knitr::include_graphics("images/teaching1.jpeg")
-```
+- **Statistics**
+
+  - 2-4 April 2025: Analysing contours in phonetic data: Dynamic analysis hands-on workshop using R. [[url]](https://site.unibo.it/akid/
+en/agenda/analysing-contours-in-phonetic-data-dynamic-analysis-hands-on-workshop-using-r)
+
+      Hosted by Prof. Chiara Meluzzi and Dr Yuka Naito (University of Milan, the AKiD project - PRIN 2022 PNRR). 
+
+- **Ultrasound tongue imaging**
+
+  - 23-25 September 2024: Basqueing in ultrasound: Hands-on workshop on data collection and analysis methods of ultrasound tongue imaging. 
+
+      Hosted by Dr Ander Egurtzegi and Iñigo Urrestarazu (iker-CNRS).
+
+<br>
+
+
+## Phonetics/Phonology
+
+<br>
 
 - **LING325 Topics in Phonetic and Phonological Theory** 
 
@@ -90,21 +106,31 @@ body, td {
 
   - 15 lectures per semester on basic theoretical concepts in phonetics and data analysis
 
------
+<br>
 
-## **English for Academic Purposes (EAP)**
+## English for Academic Purposes (EAP)
 
-In September 2023, I served as a tutor on the English for Academic Purposes (EAP) course at Lancaster University. I tutored 13 incoming postgraduate students and was responsible for delivering classroom teaching, weekly one-to-one tutoring, marking essays and providing detailed feedback on their writing. Key topics of the course include:
+<br>
 
-  - Academic Reading and Writing: critical thinking, academic integrity, referencing, paragraph structure
+  - September 2023 at Lancaster University
+
+  - instructor: 13 incoming postgraduate students
   
-  - Listening and Reading for Discussion: strategies for effective reading and listening, note taking, poster presentation
+  - classroom teaching, weekly one-to-one tutoring, essay marking and providing detailed feedback on their writing. 
   
-  - Oral Presentation: use of visual aids in presentation, taking and answers questions, delivering effective oral presentations
+  - Key topics include:
 
------
+    - Academic Reading and Writing: critical thinking, academic integrity, referencing, paragraph structure
+  
+    - Listening and Reading for Discussion: strategies for effective reading and listening, note taking, poster presentation
+  
+    - Oral Presentation: use of visual aids in presentation, taking and answers questions, delivering effective oral presentations
 
-## **English Language Teaching**
+<br>
+
+## English Language Teaching
+
+<br>
 
 I have also taught English to undergraduate students between 2016 and 2020 at various institutions in Japan, including:
 

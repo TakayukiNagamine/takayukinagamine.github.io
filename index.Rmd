@@ -27,7 +27,7 @@ knitr::include_graphics("images/profile2.png")
 I am a Postdoctoral Research Fellow in [Speech, Hearing and Phonetic Sciences (SHaPS), University College London](https://www.ucl.ac.uk/pals/research/speech-hearing-and-phonetic-sciences) for the Leverhulme-funded project **"Speech production processes in resolving articulatory variation"**. Before this, I completed a PhD at [the Department of Linguistics and English Language, Lancaster University ](https://www.lancaster.ac.uk/linguistics/) in November 2024, where I investigated acoustic/articulatory dynamics of L2 English liquids produced by L1 Japanese speakers using ultrasound tongue imaging and quantitative data analysis methods.
 
 
-Download my CV [here](https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/main/papers/Takayuki_Nagamine_CV.pdf) (last updated: 7 January 2025).
+Download my CV [here](https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/main/papers/Takayuki_Nagamine_CV.pdf) (last updated: 30 April 2025).
 
 Also follow me on:&nbsp;&nbsp;<a href='https://researchmap.jp/takayukinagamine' target='_blank'><img title='researchmap' alt='researchmap' src='https://researchmap.jp/outline/img/researchmap130.gif' border="0"/></a> 
 <a href='https://profiles.ucl.ac.uk/99585-takayuki-nagamine' target='_blank'><img title='twitter' alt='twitter' src='https://img.icons8.com/?size=40&id=9887&format=png&color=000000' /></a> 
@@ -48,23 +48,24 @@ Also follow me on:&nbsp;&nbsp;<a href='https://researchmap.jp/takayukinagamine' 
 
 ### Research interests
 
+<img width="35" height="35" src="https://img.icons8.com/ios/50/voice-recognition-scan.png"/> &nbsp; Phonetics, Phonology, Speech Sciences
 
-<img width="35" height="35" src="https://img.icons8.com/external-smashingstocks-detailed-outline-smashing-stocks/40/null/external-phonetics-foreign-language-smashingstocks-detailed-outline-smashing-stocks.png"/> &nbsp; **Articulatory Phonetics**
+<img width="35" height="35" src="https://img.icons8.com/external-others-pike-picture/40/null/external-Ultrasound-gynecology-others-pike-picture-2.png"/> &nbsp; Ultrasound Tongue Imaging
 
-<img width="35" height="35" src="https://img.icons8.com/external-others-pike-picture/40/null/external-Ultrasound-gynecology-others-pike-picture-2.png"/> &nbsp; **Ultrasound Tongue Imaging**
+<img width="35" height="35" src="https://img.icons8.com/external-icongeek26-outline-icongeek26/64/external-Tongue-human-body-parts-icongeek26-outline-icongeek26.png"/> &nbsp; Electromagnetic Articulography
 
-<img width="35" height="35" src="https://img.icons8.com/ios/40/null/language-skill.png"/> &nbsp; **Second Language Acquisition**
+<img width="35" height="35" src="https://img.icons8.com/ios/40/null/language-skill.png"/> &nbsp; Second Language Acquisition
 
-<img width="35" height="35" src="https://img.icons8.com/ios-glyphs/30/analytics.png" alt="analytics"/> &nbsp; **Quantitative Analysis**
+<img width="35" height="35" src="https://img.icons8.com/ios-glyphs/30/analytics.png" alt="analytics"/> &nbsp; Quantitative Analysis
 
 <br>
 
 ### Current projects
 
-<img width="40" height="40" src="https://img.icons8.com/ios/40/cosine--v1.png" alt="cosine--v1"/> &nbsp; **Dynamics in L2 speech: L1 Japanese speakers' production of English liquids** (My PhD research)
+<img width="40" height="40" src="https://img.icons8.com/ios/40/cosine--v1.png" alt="cosine--v1"/> &nbsp; Dynamics in L2 speech: L1 Japanese speakers' production of English liquids
 
 
-<img width="40" height="40" src="https://img.icons8.com/?size=100&id=uxYsjiIaIErJ&format=png&color=000000" alt="cosine--v1"/> &nbsp; **Speech production processes in resolving articulatory variation**
+<img width="40" height="40" src="https://img.icons8.com/?size=100&id=uxYsjiIaIErJ&format=png&color=000000" alt="cosine--v1"/> &nbsp; Speech production processes in resolving articulatory variation
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PIs: [Professor Patti Adank](https://profiles.ucl.ac.uk/19877) (UCL), [Dr Chris Carignan](https://sites.google.com/view/christopher-carignan/home) (UCL) and [Professor Adamantios Gafos](https://www.ling.uni-potsdam.de/~gafos/) (Universität Potsdam). 
@@ -75,7 +76,7 @@ Also follow me on:&nbsp;&nbsp;<a href='https://researchmap.jp/takayukinagamine' 
 
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Conveners: [Claire Nance](https://clairenance.github.io/), [Sam Kirkham](https://samkirkham.github.io/) and [Danielle Turton](https://danielleturton.rbind.io/) (Lancaster University) -->
 
-<img width="40" height="40" src="https://img.icons8.com/ios/50/hiragana-ra.png" alt="hiragana-ra"/> &nbsp; **U-DNR: Articulatory characterisation of Japanese liquids using ultrasound**
+<img width="40" height="40" src="https://img.icons8.com/ios/50/hiragana-ra.png" alt="hiragana-ra"/> &nbsp; DNR: Articulatory characterisation of Japanese liquids
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Co-researcher: [Dr Maho Morimoto](https://sites.google.com/view/mamorimo/) (Chuo University/Sophia University)
 
@@ -83,7 +84,7 @@ Also follow me on:&nbsp;&nbsp;<a href='https://researchmap.jp/takayukinagamine' 
 <br>
 
 ### Education
-<img width="35" height="35" src="https://img.icons8.com/glyph-neue/40/null/graduation-cap.png"/> &nbsp; **2020 - 2024** &nbsp; **PhD in Linguistics, [Lancaster University](https://www.lancaster.ac.uk/), UK.**
+<img width="35" height="35" src="https://img.icons8.com/glyph-neue/40/null/graduation-cap.png"/> &nbsp; 2020 - 2024 &nbsp; PhD in Linguistics, [Lancaster University](https://www.lancaster.ac.uk/), UK.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Supervisors: [Professor Claire Nance](https://clairenance.github.io/) and [Dr Sam Kirkham](https://samkirkham.github.io/)
 
@@ -91,11 +92,11 @@ Also follow me on:&nbsp;&nbsp;<a href='https://researchmap.jp/takayukinagamine' 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Funded by [Japan Student Services Organisation (JASSO)](https://www.jasso.go.jp/ryugaku/scholarship_a/daigakuin/index.html) and [The Murata Science Foundation](https://corporate.murata.com/ja-jp/group/zaidan). 
 
-<img width="35" height="35" src="https://img.icons8.com/glyph-neue/40/null/graduation-cap.png"/> &nbsp; **2015 - 2016** &nbsp; **Master of Arts in Linguistics (with Merit), [University College London](https://www.ucl.ac.uk/), UK.**
+<img width="35" height="35" src="https://img.icons8.com/glyph-neue/40/null/graduation-cap.png"/> &nbsp; 2015 - 2016 &nbsp; Master of Arts in Linguistics (with Merit), [University College London](https://www.ucl.ac.uk/), UK.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dissertation supervisor: [Dr Bronwen Evans](https://profiles.ucl.ac.uk/8727-bronwen-evans)
 
-<img width="35" height="35" src="https://img.icons8.com/glyph-neue/40/null/graduation-cap.png"/> &nbsp; **2010 - 2015** &nbsp; **Bachelor of Arts in Education Studies, [Aichi University of Education](https://www.aichi-edu.ac.jp/), Japan.**
+<img width="35" height="35" src="https://img.icons8.com/glyph-neue/40/null/graduation-cap.png"/> &nbsp; 2010 - 2015 &nbsp; **Bachelor of Arts in Education Studies, [Aichi University of Education](https://www.aichi-edu.ac.jp/), Japan.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thesis supervisor: [Professor Yasuhiro Fujiwara](https://www.meijo-u.ac.jp/sp/foreign/educator/fujiwara/) (Now at Meijo University, Japan)
 
@@ -103,11 +104,11 @@ Also follow me on:&nbsp;&nbsp;<a href='https://researchmap.jp/takayukinagamine' 
 
 ### Skills
 
-<img width="35" height="35" src="https://img.icons8.com/ios-filled/50/language.png"/> &nbsp; **Japanese** (Native), **English** (Fluent, CEFR: C1), **German** (Beginner, CEFR: A2)
+<img width="35" height="35" src="https://img.icons8.com/ios-filled/50/language.png"/> &nbsp; Japanese (Native), English (Fluent, CEFR: C1), German (Beginner, CEFR: A2)
 
-<img width="35" height="35" src="https://img.icons8.com/ios-filled/50/monitor--v1.png"/> &nbsp; **R / R Studio**, **Praat**, **Gorilla**, **Microsoft Office**, **LaTeX**, **Moodle**
+<img width="35" height="35" src="https://img.icons8.com/ios-filled/50/monitor--v1.png"/> &nbsp; R / R Studio, Praat, Gorilla, Microsoft Office, LaTeX, Moodle
 
-<img width="35" height="35" src="https://img.icons8.com/ios-filled/50/open-end-wrench.png"/> &nbsp; **Ultrasound tongue imaging ([Articulate Assistant Advanced](http://www.articulateinstruments.com/aaa/))**, **Acoustic analysis**, **Statistical analysis**
+<img width="35" height="35" src="https://img.icons8.com/ios-filled/50/open-end-wrench.png"/> &nbsp; Ultrasound tongue imaging ([Articulate Assistant Advanced](http://www.articulateinstruments.com/aaa/)), Electromagnetic Ariculography ([NDI Vox-EMA](https://www.ndigital.com/products/legacy-products/))
 
 ----------
 icons by <a href="https://icons8.com">Icons8
