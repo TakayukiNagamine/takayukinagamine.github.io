@@ -30,6 +30,10 @@ body, td {
 
 - **Ultrasound tongue imaging**
 
+  - 12 September 2025: One-day training on ultrasound data collection. 
+
+      Hosted by Dr Sam Kirkham (Lancaster University).
+
   - 23-25 September 2024: Basqueing in ultrasound: Hands-on workshop on data collection and analysis methods of ultrasound tongue imaging. 
 
       Hosted by Dr Ander Egurtzegi and Iñigo Urrestarazu (iker-CNRS).
