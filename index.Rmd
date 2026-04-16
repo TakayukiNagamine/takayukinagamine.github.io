@@ -28,7 +28,7 @@ I am a Postdoctoral Research Fellow in [Speech, Hearing and Phonetic Sciences (S
 
 <!-- <br> -->
 
-My research seeks to better understand the speech production system spanning cognition, articulation and acoustics. I am particularly interested in how a speaker resolves conflicting speech production demands by looking closely at articulation -- the final stage of human action in the speech production process. My PhD research investigated L1 Japanese speakers' production of L2 English liquid consonants /l r/ by combining ultrasound tongue imaging and dynamic data analysis methods. My current postdoc project investigates how a speaker resolves perceptually-driven and goal-driven motor plans by utilising the stimulus-response compatibility (SRC) paradigm to artificially create cognitive demands and electromagnetic articulography (EMA) to track the 'trace' of such conflicts in speech action.
+My research seeks to better understand the speech production system spanning cognition, articulation and acoustics. I am particularly interested in how a speaker resolves conflicting speech production demands by looking closely at articulation -- the final stage of human action in the speech production process. My PhD research investigated L1 Japanese speakers' production of L2 English liquid consonants /l r/ by combining ultrasound tongue imaging and dynamic data analysis methods. My current postdoc project investigates how a speaker resolves conflicts between perceptually-driven and goal-driven motor plans by utilising the stimulus-response compatibility (SRC) paradigm and electromagnetic articulography (EMA) to track the 'trace' of such conflicts in speech action.
 
 <!-- <br> -->
 
