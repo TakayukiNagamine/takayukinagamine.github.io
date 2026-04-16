@@ -18,14 +18,19 @@ body, td {
 
 
 
-```{r echo = FALSE, out.width = "40%", out.extra='style="float:left; padding:50px"'}
+```{r echo = FALSE, out.width = "40%", out.extra='style="float:right; padding:50px"'}
 knitr::include_graphics("images/profile2.png")
 ```
 
 
 <br>
-I am a Postdoctoral Research Fellow in [Speech, Hearing and Phonetic Sciences (SHaPS), University College London](https://www.ucl.ac.uk/pals/research/speech-hearing-and-phonetic-sciences) for the Leverhulme-funded project **"Speech production processes in resolving articulatory variation"**. Before this, I completed a PhD at [the Department of Linguistics and English Language, Lancaster University ](https://www.lancaster.ac.uk/linguistics/) in November 2024, where I investigated acoustic/articulatory dynamics of L2 English liquids produced by L1 Japanese speakers using ultrasound tongue imaging and quantitative data analysis methods.
+I am a Postdoctoral Research Fellow in [Speech, Hearing and Phonetic Sciences (SHaPS), University College London](https://www.ucl.ac.uk/pals/research/speech-hearing-and-phonetic-sciences). I was awarded a PhD from [Lancaster University ](https://www.lancaster.ac.uk/linguistics/) in 2024.
 
+<!-- <br> -->
+
+My research seeks to better understand the speech production system spanning cognition, articulation and acoustics. I am particularly interested in how a speaker resolves conflicting speech production demands by looking closely at articulation -- the final stage of human action in the speech production process. My PhD research investigated L1 Japanese speakers' production of L2 English liquid consonants /l r/ by combining ultrasound tongue imaging and dynamic data analysis methods. My current postdoc project investigates how a speaker resolves perceptually-driven and goal-driven motor plans by utilising the stimulus-response compatibility (SRC) paradigm to artificially create cognitive demands and electromagnetic articulography (EMA) to track the 'trace' of such conflicts in speech action.
+
+<!-- <br> -->
 
 Download my CV [here](https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/main/papers/Takayuki_Nagamine_CV.pdf) (last updated: 01 October 2025).
 
@@ -50,15 +55,15 @@ Also follow me on:&nbsp;&nbsp;<a href='https://researchmap.jp/takayukinagamine' 
 
 <br>
 
-<img width="35" height="35" src="https://img.icons8.com/ios/50/voice-recognition-scan.png"/> &nbsp; Phonetics, Phonology, Speech Sciences
+<img width="35" height="35" src="https://img.icons8.com/ios/50/voice-recognition-scan.png"/> &nbsp; Experimental Phonetics, Speech Sciences
 
 <img width="35" height="35" src="https://img.icons8.com/external-others-pike-picture/40/null/external-Ultrasound-gynecology-others-pike-picture-2.png"/> &nbsp; Ultrasound Tongue Imaging
 
 <img width="35" height="35" src="https://img.icons8.com/external-icongeek26-outline-icongeek26/64/external-Tongue-human-body-parts-icongeek26-outline-icongeek26.png"/> &nbsp; Electromagnetic Articulography
 
-<img width="35" height="35" src="https://img.icons8.com/ios/40/null/language-skill.png"/> &nbsp; Second Language Acquisition
+<img width="35" height="35" src="https://img.icons8.com/ios/40/null/language-skill.png"/> &nbsp; Second Language Speech Acquisition
 
-<img width="35" height="35" src="https://img.icons8.com/ios-glyphs/30/analytics.png" alt="analytics"/> &nbsp; Quantitative Analysis
+<img width="35" height="35" src="https://img.icons8.com/ios-glyphs/30/analytics.png" alt="analytics"/> &nbsp; Quantitative Data Analysis (Statistical Modelling, Dynamic Data Analysis)
 
 <br>
 
@@ -82,7 +87,7 @@ Also follow me on:&nbsp;&nbsp;<a href='https://researchmap.jp/takayukinagamine' 
 
 <img width="40" height="40" src="https://img.icons8.com/ios/50/hiragana-ra.png" alt="hiragana-ra"/> &nbsp; DNR: Articulatory characterisation of Japanese liquids
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Co-researcher: [Dr Maho Morimoto](https://sites.google.com/view/mamorimo/) (Chuo University/Sophia University)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Co-researcher: [Dr Maho Morimoto](https://sites.google.com/view/mamorimo/) (Chuo University)
 
 
 <br>
@@ -101,11 +106,11 @@ Also follow me on:&nbsp;&nbsp;<a href='https://researchmap.jp/takayukinagamine' 
 
 <img width="35" height="35" src="https://img.icons8.com/glyph-neue/40/null/graduation-cap.png"/> &nbsp; 2015 - 2016 &nbsp; Master of Arts in Linguistics (with Merit), [University College London](https://www.ucl.ac.uk/), UK.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dissertation supervisor: [Dr Bronwen Evans](https://profiles.ucl.ac.uk/8727-bronwen-evans)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dissertation supervisor: [Dr Bronwen Evans](https://profiles.ucl.ac.uk/8727-bronwen-evans) (Now Professor in Sociophonetics at UCL)
 
 <img width="35" height="35" src="https://img.icons8.com/glyph-neue/40/null/graduation-cap.png"/> &nbsp; 2010 - 2015 &nbsp; Bachelor of Arts in Education Studies, [Aichi University of Education](https://www.aichi-edu.ac.jp/), Japan.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thesis supervisor: [Professor Yasuhiro Fujiwara](https://www.meijo-u.ac.jp/sp/foreign/faculty_members/fujiwara/) (Now at Meijo University, Japan)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thesis supervisor: [Dr Yasuhiro Fujiwara](https://www.meijo-u.ac.jp/sp/foreign/faculty_members/fujiwara/) (Now Professor at Meijo University, Japan)
 
 <br>
 
