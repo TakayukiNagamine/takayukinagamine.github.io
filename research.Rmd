@@ -22,7 +22,7 @@ Please also see my [CV](https://github.com/TakayukiNagamine/takayukinagamine.git
 
 ### 2026
 
-- **Nagamine, T**. (2026). Allophonic variation in L1 and L2 English laterals: Evidence from L1 Japanese-L2 English speakers. *Language and Speech*. [[doi]](https://journals.sagepub.com/doi/10.1177/00238309261446912) [[pdf]]() [[osf]](https://osf.io/5sx7t/)
+- **Nagamine, T**. (2026). Allophonic variation in L1 and L2 English laterals: Evidence from L1 Japanese-L2 English speakers. *Language and Speech*, online first, 1-35.  [[doi]](https://journals.sagepub.com/doi/10.1177/00238309261446912) [[pdf]](https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/main/papers/nagamine_2026_language_and_speech.pdf) [[osf]](https://osf.io/5sx7t/)
 
 - **Nagamine, T** & Kirkham, S. (Submitted). Laterals. In M. Baranowski, P. DeDecker & J. Nycz (eds.). *The Oxford Handbook of Research Methods in Sociophonetics*. Oxford University Press.
 
