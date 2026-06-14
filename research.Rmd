@@ -20,9 +20,13 @@ body, td {
 
 Please also see my [CV](https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/main/papers/Takayuki_Nagamine_CV.pdf) for a comprehensive list of my research output.
 
+<br>
+
 ### 2026
 
-- **Nagamine, T**. (2026). Allophonic variation in L1 and L2 English laterals: Evidence from L1 Japanese-L2 English speakers. *Language and Speech*, online first, 1-35.  [[doi]](https://journals.sagepub.com/doi/10.1177/00238309261446912) [[pdf]](https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/main/papers/nagamine_2026_language_and_speech.pdf) [[osf]](https://osf.io/5sx7t/)
+- Nance, C., Dewhurst, M., Kirkham, S., & **Nagamine, T.** (Accepted). Articulation at the end stage of sound change: Derhoticisation across east Lancashire. *English Language and Linguistics*. [[accepted version]](https://research.lancaster-university.uk/en/publications/articulation-at-the-end-stage-of-sound-change-derhoticisation-acr/)
+
+- **Nagamine, T**. (2026). Allophonic variation in L1 and L2 English laterals: Evidence from L1 Japanese-L2 English speakers. *Language and Speech, online first*, 1-35.  [[doi]](https://journals.sagepub.com/doi/10.1177/00238309261446912) [[pdf]](https://github.com/TakayukiNagamine/takayukinagamine.github.io/raw/main/papers/nagamine_2026_language_and_speech.pdf) [[osf]](https://osf.io/5sx7t/)
 
 - **Nagamine, T** & Kirkham, S. (Submitted). Laterals. In M. Baranowski, P. DeDecker & J. Nycz (eds.). *The Oxford Handbook of Research Methods in Sociophonetics*. Oxford University Press.
 
