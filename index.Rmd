@@ -24,7 +24,7 @@ knitr::include_graphics("images/profile2.png")
 
 
 <br>
-I am a Postdoctoral Research Fellow in [Speech, Hearing and Phonetic Sciences (SHaPS), University College London](https://www.ucl.ac.uk/pals/research/speech-hearing-and-phonetic-sciences). I was awarded a PhD from [Lancaster University ](https://www.lancaster.ac.uk/linguistics/) in 2024.
+I am a Postdoctoral Research Fellow in [Human Communication Sciences, University College London](https://www.ucl.ac.uk/brain-sciences/pals/research/human-communication-sciences) (formerly Speech Hearing and Phonetic Sciences: SHaPS). I was awarded a PhD from [Lancaster University ](https://www.lancaster.ac.uk/linguistics/) in 2024.
 
 <!-- <br> -->
 
